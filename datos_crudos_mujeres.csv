@@ -1,0 +1,2255 @@
+﻿ID,grupo_edad,region,norma,marca,Intensidad
+1,20-30,superior,frontal,Líneas horizontales de la frente,0
+1,20-30,superior,frontal,Líneas glabelares,0
+1,20-30,media,lateral,Líneas periorbitarias,0
+1,20-30,media,frontal,Surco infraorbitario,1
+1,20-30,media,frontal,Hipercromía del anillo orbitario,3
+1,20-30,media,lateral,Líneas periauriculares,0
+1,20-30,inferior,lateral,Pliegues de las mejillas,0
+1,20-30,inferior,frontal,Pliegues nasolabiales,0
+1,20-30,inferior,frontal,Líneas periorales,0
+1,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+1,20-30,inferior,frontal,Líneas de quelion,0
+1,20-30,inferior,frontal,Pliegue de la barbilla,2
+1,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+1,20-30,cuello,frontal,Pliegues del cuello,3
+2,20-30,superior,frontal,Líneas horizontales de la frente,0
+2,20-30,superior,frontal,Líneas glabelares,0
+2,20-30,media,lateral,Líneas periorbitarias,0
+2,20-30,media,frontal,Surco infraorbitario,0
+2,20-30,media,frontal,Hipercromía del anillo orbitario,5
+2,20-30,media,lateral,Líneas periauriculares,0
+2,20-30,inferior,lateral,Pliegues de las mejillas,0
+2,20-30,inferior,frontal,Pliegues nasolabiales,1
+2,20-30,inferior,frontal,Líneas periorales,0
+2,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+2,20-30,inferior,frontal,Líneas de quelion,0
+2,20-30,inferior,frontal,Pliegue de la barbilla,0
+2,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+2,20-30,cuello,frontal,Pliegues del cuello,2
+3,20-30,superior,frontal,Líneas horizontales de la frente,0
+3,20-30,superior,frontal,Líneas glabelares,0
+3,20-30,media,lateral,Líneas periorbitarias,0
+3,20-30,media,frontal,Surco infraorbitario,0
+3,20-30,media,frontal,Hipercromía del anillo orbitario,2
+3,20-30,media,lateral,Líneas periauriculares,0
+3,20-30,inferior,lateral,Pliegues de las mejillas,0
+3,20-30,inferior,frontal,Pliegues nasolabiales,0
+3,20-30,inferior,frontal,Líneas periorales,0
+3,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+3,20-30,inferior,frontal,Líneas de quelion,0
+3,20-30,inferior,frontal,Pliegue de la barbilla,0
+3,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+3,20-30,cuello,frontal,Pliegues del cuello,3
+4,20-30,superior,frontal,Líneas horizontales de la frente,0
+4,20-30,superior,frontal,Líneas glabelares,0
+4,20-30,media,lateral,Líneas periorbitarias,0
+4,20-30,media,frontal,Surco infraorbitario,0
+4,20-30,media,frontal,Hipercromía del anillo orbitario,2
+4,20-30,media,lateral,Líneas periauriculares,0
+4,20-30,inferior,lateral,Pliegues de las mejillas,0
+4,20-30,inferior,frontal,Pliegues nasolabiales,1
+4,20-30,inferior,frontal,Líneas periorales,0
+4,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+4,20-30,inferior,frontal,Líneas de quelion,0
+4,20-30,inferior,frontal,Pliegue de la barbilla,0
+4,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+4,20-30,cuello,frontal,Pliegues del cuello,1
+5,20-30,superior,frontal,Líneas horizontales de la frente,0
+5,20-30,superior,frontal,Líneas glabelares,0
+5,20-30,media,lateral,Líneas periorbitarias,0
+5,20-30,media,frontal,Surco infraorbitario,1
+5,20-30,media,frontal,Hipercromía del anillo orbitario,2
+5,20-30,media,lateral,Líneas periauriculares,0
+5,20-30,inferior,lateral,Pliegues de las mejillas,0
+5,20-30,inferior,frontal,Pliegues nasolabiales,0
+5,20-30,inferior,frontal,Líneas periorales,0
+5,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+5,20-30,inferior,frontal,Líneas de quelion,0
+5,20-30,inferior,frontal,Pliegue de la barbilla,0
+5,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+5,20-30,cuello,frontal,Pliegues del cuello,3
+6,20-30,superior,frontal,Líneas horizontales de la frente,0
+6,20-30,superior,frontal,Líneas glabelares,0
+6,20-30,media,lateral,Líneas periorbitarias,0
+6,20-30,media,frontal,Surco infraorbitario,1
+6,20-30,media,frontal,Hipercromía del anillo orbitario,0
+6,20-30,media,lateral,Líneas periauriculares,0
+6,20-30,inferior,lateral,Pliegues de las mejillas,0
+6,20-30,inferior,frontal,Pliegues nasolabiales,0
+6,20-30,inferior,frontal,Líneas periorales,0
+6,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+6,20-30,inferior,frontal,Líneas de quelion,0
+6,20-30,inferior,frontal,Pliegue de la barbilla,0
+6,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+6,20-30,cuello,frontal,Pliegues del cuello,NA
+7,20-30,superior,frontal,Líneas horizontales de la frente,0
+7,20-30,superior,frontal,Líneas glabelares,0
+7,20-30,media,lateral,Líneas periorbitarias,0
+7,20-30,media,frontal,Surco infraorbitario,0
+7,20-30,media,frontal,Hipercromía del anillo orbitario,2
+7,20-30,media,lateral,Líneas periauriculares,0
+7,20-30,inferior,lateral,Pliegues de las mejillas,0
+7,20-30,inferior,frontal,Pliegues nasolabiales,0
+7,20-30,inferior,frontal,Líneas periorales,0
+7,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+7,20-30,inferior,frontal,Líneas de quelion,0
+7,20-30,inferior,frontal,Pliegue de la barbilla,0
+7,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+7,20-30,cuello,frontal,Pliegues del cuello,2
+8,20-30,superior,frontal,Líneas horizontales de la frente,0
+8,20-30,superior,frontal,Líneas glabelares,0
+8,20-30,media,lateral,Líneas periorbitarias,0
+8,20-30,media,frontal,Surco infraorbitario,1
+8,20-30,media,frontal,Hipercromía del anillo orbitario,4
+8,20-30,media,lateral,Líneas periauriculares,0
+8,20-30,inferior,lateral,Pliegues de las mejillas,0
+8,20-30,inferior,frontal,Pliegues nasolabiales,0
+8,20-30,inferior,frontal,Líneas periorales,0
+8,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+8,20-30,inferior,frontal,Líneas de quelion,0
+8,20-30,inferior,frontal,Pliegue de la barbilla,0
+8,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+8,20-30,cuello,frontal,Pliegues del cuello,2
+9,20-30,superior,frontal,Líneas horizontales de la frente,0
+9,20-30,superior,frontal,Líneas glabelares,0
+9,20-30,media,lateral,Líneas periorbitarias,0
+9,20-30,media,frontal,Surco infraorbitario,1
+9,20-30,media,frontal,Hipercromía del anillo orbitario,4
+9,20-30,media,lateral,Líneas periauriculares,0
+9,20-30,inferior,lateral,Pliegues de las mejillas,0
+9,20-30,inferior,frontal,Pliegues nasolabiales,1
+9,20-30,inferior,frontal,Líneas periorales,0
+9,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+9,20-30,inferior,frontal,Líneas de quelion,0
+9,20-30,inferior,frontal,Pliegue de la barbilla,0
+9,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+9,20-30,cuello,frontal,Pliegues del cuello,2
+10,20-30,superior,frontal,Líneas horizontales de la frente,0
+10,20-30,superior,frontal,Líneas glabelares,0
+10,20-30,media,lateral,Líneas periorbitarias,NA
+10,20-30,media,frontal,Surco infraorbitario,1
+10,20-30,media,frontal,Hipercromía del anillo orbitario,3
+10,20-30,media,lateral,Líneas periauriculares,0
+10,20-30,inferior,lateral,Pliegues de las mejillas,0
+10,20-30,inferior,frontal,Pliegues nasolabiales,0
+10,20-30,inferior,frontal,Líneas periorales,0
+10,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+10,20-30,inferior,frontal,Líneas de quelion,0
+10,20-30,inferior,frontal,Pliegue de la barbilla,0
+10,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+10,20-30,cuello,frontal,Pliegues del cuello,2
+11,20-30,superior,frontal,Líneas horizontales de la frente,0
+11,20-30,superior,frontal,Líneas glabelares,0
+11,20-30,media,lateral,Líneas periorbitarias,0
+11,20-30,media,frontal,Surco infraorbitario,0
+11,20-30,media,frontal,Hipercromía del anillo orbitario,3
+11,20-30,media,lateral,Líneas periauriculares,0
+11,20-30,inferior,lateral,Pliegues de las mejillas,0
+11,20-30,inferior,frontal,Pliegues nasolabiales,1
+11,20-30,inferior,frontal,Líneas periorales,0
+11,20-30,inferior,frontal,Líneas de la comisura de la boca,1
+11,20-30,inferior,frontal,Líneas de quelion,0
+11,20-30,inferior,frontal,Pliegue de la barbilla,0
+11,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,2
+11,20-30,cuello,frontal,Pliegues del cuello,2
+12,20-30,superior,frontal,Líneas horizontales de la frente,0
+12,20-30,superior,frontal,Líneas glabelares,0
+12,20-30,media,lateral,Líneas periorbitarias,0
+12,20-30,media,frontal,Surco infraorbitario,1
+12,20-30,media,frontal,Hipercromía del anillo orbitario,3
+12,20-30,media,lateral,Líneas periauriculares,0
+12,20-30,inferior,lateral,Pliegues de las mejillas,0
+12,20-30,inferior,frontal,Pliegues nasolabiales,0
+12,20-30,inferior,frontal,Líneas periorales,0
+12,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+12,20-30,inferior,frontal,Líneas de quelion,0
+12,20-30,inferior,frontal,Pliegue de la barbilla,0
+12,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+12,20-30,cuello,frontal,Pliegues del cuello,2
+13,20-30,superior,frontal,Líneas horizontales de la frente,0
+13,20-30,superior,frontal,Líneas glabelares,0
+13,20-30,media,lateral,Líneas periorbitarias,0
+13,20-30,media,frontal,Surco infraorbitario,0
+13,20-30,media,frontal,Hipercromía del anillo orbitario,4
+13,20-30,media,lateral,Líneas periauriculares,0
+13,20-30,inferior,lateral,Pliegues de las mejillas,0
+13,20-30,inferior,frontal,Pliegues nasolabiales,0
+13,20-30,inferior,frontal,Líneas periorales,0
+13,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+13,20-30,inferior,frontal,Líneas de quelion,0
+13,20-30,inferior,frontal,Pliegue de la barbilla,0
+13,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+13,20-30,cuello,frontal,Pliegues del cuello,2
+14,20-30,superior,frontal,Líneas horizontales de la frente,0
+14,20-30,superior,frontal,Líneas glabelares,0
+14,20-30,media,lateral,Líneas periorbitarias,0
+14,20-30,media,frontal,Surco infraorbitario,1
+14,20-30,media,frontal,Hipercromía del anillo orbitario,3
+14,20-30,media,lateral,Líneas periauriculares,0
+14,20-30,inferior,lateral,Pliegues de las mejillas,0
+14,20-30,inferior,frontal,Pliegues nasolabiales,2
+14,20-30,inferior,frontal,Líneas periorales,0
+14,20-30,inferior,frontal,Líneas de la comisura de la boca,1
+14,20-30,inferior,frontal,Líneas de quelion,0
+14,20-30,inferior,frontal,Pliegue de la barbilla,0
+14,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,2
+14,20-30,cuello,frontal,Pliegues del cuello,3
+15,20-30,superior,frontal,Líneas horizontales de la frente,0
+15,20-30,superior,frontal,Líneas glabelares,0
+15,20-30,media,lateral,Líneas periorbitarias,0
+15,20-30,media,frontal,Surco infraorbitario,1
+15,20-30,media,frontal,Hipercromía del anillo orbitario,5
+15,20-30,media,lateral,Líneas periauriculares,0
+15,20-30,inferior,lateral,Pliegues de las mejillas,0
+15,20-30,inferior,frontal,Pliegues nasolabiales,1
+15,20-30,inferior,frontal,Líneas periorales,0
+15,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+15,20-30,inferior,frontal,Líneas de quelion,0
+15,20-30,inferior,frontal,Pliegue de la barbilla,0
+15,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+15,20-30,cuello,frontal,Pliegues del cuello,1
+16,20-30,superior,frontal,Líneas horizontales de la frente,0
+16,20-30,superior,frontal,Líneas glabelares,0
+16,20-30,media,lateral,Líneas periorbitarias,0
+16,20-30,media,frontal,Surco infraorbitario,1
+16,20-30,media,frontal,Hipercromía del anillo orbitario,2
+16,20-30,media,lateral,Líneas periauriculares,0
+16,20-30,inferior,lateral,Pliegues de las mejillas,0
+16,20-30,inferior,frontal,Pliegues nasolabiales,0
+16,20-30,inferior,frontal,Líneas periorales,0
+16,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+16,20-30,inferior,frontal,Líneas de quelion,0
+16,20-30,inferior,frontal,Pliegue de la barbilla,0
+16,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+16,20-30,cuello,frontal,Pliegues del cuello,0
+17,20-30,superior,frontal,Líneas horizontales de la frente,0
+17,20-30,superior,frontal,Líneas glabelares,0
+17,20-30,media,lateral,Líneas periorbitarias,0
+17,20-30,media,frontal,Surco infraorbitario,0
+17,20-30,media,frontal,Hipercromía del anillo orbitario,0
+17,20-30,media,lateral,Líneas periauriculares,0
+17,20-30,inferior,lateral,Pliegues de las mejillas,0
+17,20-30,inferior,frontal,Pliegues nasolabiales,0
+17,20-30,inferior,frontal,Líneas periorales,0
+17,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+17,20-30,inferior,frontal,Líneas de quelion,0
+17,20-30,inferior,frontal,Pliegue de la barbilla,0
+17,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+17,20-30,cuello,frontal,Pliegues del cuello,2
+18,20-30,superior,frontal,Líneas horizontales de la frente,0
+18,20-30,superior,frontal,Líneas glabelares,0
+18,20-30,media,lateral,Líneas periorbitarias,0
+18,20-30,media,frontal,Surco infraorbitario,0
+18,20-30,media,frontal,Hipercromía del anillo orbitario,3
+18,20-30,media,lateral,Líneas periauriculares,0
+18,20-30,inferior,lateral,Pliegues de las mejillas,0
+18,20-30,inferior,frontal,Pliegues nasolabiales,0
+18,20-30,inferior,frontal,Líneas periorales,0
+18,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+18,20-30,inferior,frontal,Líneas de quelion,0
+18,20-30,inferior,frontal,Pliegue de la barbilla,0
+18,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+18,20-30,cuello,frontal,Pliegues del cuello,3
+19,20-30,superior,frontal,Líneas horizontales de la frente,0
+19,20-30,superior,frontal,Líneas glabelares,0
+19,20-30,media,lateral,Líneas periorbitarias,0
+19,20-30,media,frontal,Surco infraorbitario,0
+19,20-30,media,frontal,Hipercromía del anillo orbitario,2
+19,20-30,media,lateral,Líneas periauriculares,0
+19,20-30,inferior,lateral,Pliegues de las mejillas,0
+19,20-30,inferior,frontal,Pliegues nasolabiales,0
+19,20-30,inferior,frontal,Líneas periorales,0
+19,20-30,inferior,frontal,Líneas de la comisura de la boca,1
+19,20-30,inferior,frontal,Líneas de quelion,0
+19,20-30,inferior,frontal,Pliegue de la barbilla,2
+19,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,2
+19,20-30,cuello,frontal,Pliegues del cuello,2
+20,20-30,superior,frontal,Líneas horizontales de la frente,0
+20,20-30,superior,frontal,Líneas glabelares,0
+20,20-30,media,lateral,Líneas periorbitarias,0
+20,20-30,media,frontal,Surco infraorbitario,0
+20,20-30,media,frontal,Hipercromía del anillo orbitario,2
+20,20-30,media,lateral,Líneas periauriculares,0
+20,20-30,inferior,lateral,Pliegues de las mejillas,0
+20,20-30,inferior,frontal,Pliegues nasolabiales,1
+20,20-30,inferior,frontal,Líneas periorales,0
+20,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+20,20-30,inferior,frontal,Líneas de quelion,0
+20,20-30,inferior,frontal,Pliegue de la barbilla,0
+20,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+20,20-30,cuello,frontal,Pliegues del cuello,NA
+21,20-30,superior,frontal,Líneas horizontales de la frente,0
+21,20-30,superior,frontal,Líneas glabelares,0
+21,20-30,media,lateral,Líneas periorbitarias,0
+21,20-30,media,frontal,Surco infraorbitario,0
+21,20-30,media,frontal,Hipercromía del anillo orbitario,1
+21,20-30,media,lateral,Líneas periauriculares,0
+21,20-30,inferior,lateral,Pliegues de las mejillas,0
+21,20-30,inferior,frontal,Pliegues nasolabiales,0
+21,20-30,inferior,frontal,Líneas periorales,0
+21,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+21,20-30,inferior,frontal,Líneas de quelion,0
+21,20-30,inferior,frontal,Pliegue de la barbilla,1
+21,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+21,20-30,cuello,frontal,Pliegues del cuello,3
+22,20-30,superior,frontal,Líneas horizontales de la frente,0
+22,20-30,superior,frontal,Líneas glabelares,0
+22,20-30,media,lateral,Líneas periorbitarias,0
+22,20-30,media,frontal,Surco infraorbitario,0
+22,20-30,media,frontal,Hipercromía del anillo orbitario,2
+22,20-30,media,lateral,Líneas periauriculares,0
+22,20-30,inferior,lateral,Pliegues de las mejillas,0
+22,20-30,inferior,frontal,Pliegues nasolabiales,0
+22,20-30,inferior,frontal,Líneas periorales,0
+22,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+22,20-30,inferior,frontal,Líneas de quelion,0
+22,20-30,inferior,frontal,Pliegue de la barbilla,0
+22,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+22,20-30,cuello,frontal,Pliegues del cuello,1
+23,20-30,superior,frontal,Líneas horizontales de la frente,0
+23,20-30,superior,frontal,Líneas glabelares,0
+23,20-30,media,lateral,Líneas periorbitarias,0
+23,20-30,media,frontal,Surco infraorbitario,0
+23,20-30,media,frontal,Hipercromía del anillo orbitario,1
+23,20-30,media,lateral,Líneas periauriculares,0
+23,20-30,inferior,lateral,Pliegues de las mejillas,0
+23,20-30,inferior,frontal,Pliegues nasolabiales,0
+23,20-30,inferior,frontal,Líneas periorales,0
+23,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+23,20-30,inferior,frontal,Líneas de quelion,0
+23,20-30,inferior,frontal,Pliegue de la barbilla,0
+23,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+23,20-30,cuello,frontal,Pliegues del cuello,0
+24,20-30,superior,frontal,Líneas horizontales de la frente,0
+24,20-30,superior,frontal,Líneas glabelares,0
+24,20-30,media,lateral,Líneas periorbitarias,0
+24,20-30,media,frontal,Surco infraorbitario,0
+24,20-30,media,frontal,Hipercromía del anillo orbitario,2
+24,20-30,media,lateral,Líneas periauriculares,0
+24,20-30,inferior,lateral,Pliegues de las mejillas,0
+24,20-30,inferior,frontal,Pliegues nasolabiales,0
+24,20-30,inferior,frontal,Líneas periorales,0
+24,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+24,20-30,inferior,frontal,Líneas de quelion,0
+24,20-30,inferior,frontal,Pliegue de la barbilla,0
+24,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+24,20-30,cuello,frontal,Pliegues del cuello,2
+25,20-30,superior,frontal,Líneas horizontales de la frente,0
+25,20-30,superior,frontal,Líneas glabelares,0
+25,20-30,media,lateral,Líneas periorbitarias,0
+25,20-30,media,frontal,Surco infraorbitario,0
+25,20-30,media,frontal,Hipercromía del anillo orbitario,0
+25,20-30,media,lateral,Líneas periauriculares,0
+25,20-30,inferior,lateral,Pliegues de las mejillas,0
+25,20-30,inferior,frontal,Pliegues nasolabiales,0
+25,20-30,inferior,frontal,Líneas periorales,0
+25,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+25,20-30,inferior,frontal,Líneas de quelion,0
+25,20-30,inferior,frontal,Pliegue de la barbilla,0
+25,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+25,20-30,cuello,frontal,Pliegues del cuello,0
+26,20-30,superior,frontal,Líneas horizontales de la frente,0
+26,20-30,superior,frontal,Líneas glabelares,0
+26,20-30,media,lateral,Líneas periorbitarias,0
+26,20-30,media,frontal,Surco infraorbitario,0
+26,20-30,media,frontal,Hipercromía del anillo orbitario,2
+26,20-30,media,lateral,Líneas periauriculares,0
+26,20-30,inferior,lateral,Pliegues de las mejillas,0
+26,20-30,inferior,frontal,Pliegues nasolabiales,1
+26,20-30,inferior,frontal,Líneas periorales,0
+26,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+26,20-30,inferior,frontal,Líneas de quelion,0
+26,20-30,inferior,frontal,Pliegue de la barbilla,0
+26,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+26,20-30,cuello,frontal,Pliegues del cuello,1
+27,20-30,superior,frontal,Líneas horizontales de la frente,0
+27,20-30,superior,frontal,Líneas glabelares,0
+27,20-30,media,lateral,Líneas periorbitarias,0
+27,20-30,media,frontal,Surco infraorbitario,0
+27,20-30,media,frontal,Hipercromía del anillo orbitario,2
+27,20-30,media,lateral,Líneas periauriculares,0
+27,20-30,inferior,lateral,Pliegues de las mejillas,0
+27,20-30,inferior,frontal,Pliegues nasolabiales,0
+27,20-30,inferior,frontal,Líneas periorales,0
+27,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+27,20-30,inferior,frontal,Líneas de quelion,0
+27,20-30,inferior,frontal,Pliegue de la barbilla,0
+27,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+27,20-30,cuello,frontal,Pliegues del cuello,2
+28,20-30,superior,frontal,Líneas horizontales de la frente,0
+28,20-30,superior,frontal,Líneas glabelares,0
+28,20-30,media,lateral,Líneas periorbitarias,0
+28,20-30,media,frontal,Surco infraorbitario,1
+28,20-30,media,frontal,Hipercromía del anillo orbitario,1
+28,20-30,media,lateral,Líneas periauriculares,0
+28,20-30,inferior,lateral,Pliegues de las mejillas,0
+28,20-30,inferior,frontal,Pliegues nasolabiales,1
+28,20-30,inferior,frontal,Líneas periorales,0
+28,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+28,20-30,inferior,frontal,Líneas de quelion,0
+28,20-30,inferior,frontal,Pliegue de la barbilla,0
+28,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+28,20-30,cuello,frontal,Pliegues del cuello,1
+29,20-30,superior,frontal,Líneas horizontales de la frente,0
+29,20-30,superior,frontal,Líneas glabelares,0
+29,20-30,media,lateral,Líneas periorbitarias,0
+29,20-30,media,frontal,Surco infraorbitario,0
+29,20-30,media,frontal,Hipercromía del anillo orbitario,1
+29,20-30,media,lateral,Líneas periauriculares,0
+29,20-30,inferior,lateral,Pliegues de las mejillas,0
+29,20-30,inferior,frontal,Pliegues nasolabiales,0
+29,20-30,inferior,frontal,Líneas periorales,0
+29,20-30,inferior,frontal,Líneas de la comisura de la boca,1
+29,20-30,inferior,frontal,Líneas de quelion,0
+29,20-30,inferior,frontal,Pliegue de la barbilla,0
+29,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+29,20-30,cuello,frontal,Pliegues del cuello,1
+30,20-30,superior,frontal,Líneas horizontales de la frente,0
+30,20-30,superior,frontal,Líneas glabelares,0
+30,20-30,media,lateral,Líneas periorbitarias,0
+30,20-30,media,frontal,Surco infraorbitario,1
+30,20-30,media,frontal,Hipercromía del anillo orbitario,3
+30,20-30,media,lateral,Líneas periauriculares,0
+30,20-30,inferior,lateral,Pliegues de las mejillas,0
+30,20-30,inferior,frontal,Pliegues nasolabiales,1
+30,20-30,inferior,frontal,Líneas periorales,0
+30,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+30,20-30,inferior,frontal,Líneas de quelion,0
+30,20-30,inferior,frontal,Pliegue de la barbilla,0
+30,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+30,20-30,cuello,frontal,Pliegues del cuello,0
+31,20-30,superior,frontal,Líneas horizontales de la frente,0
+31,20-30,superior,frontal,Líneas glabelares,0
+31,20-30,media,lateral,Líneas periorbitarias,0
+31,20-30,media,frontal,Surco infraorbitario,0
+31,20-30,media,frontal,Hipercromía del anillo orbitario,2
+31,20-30,media,lateral,Líneas periauriculares,0
+31,20-30,inferior,lateral,Pliegues de las mejillas,0
+31,20-30,inferior,frontal,Pliegues nasolabiales,1
+31,20-30,inferior,frontal,Líneas periorales,0
+31,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+31,20-30,inferior,frontal,Líneas de quelion,0
+31,20-30,inferior,frontal,Pliegue de la barbilla,0
+31,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+31,20-30,cuello,frontal,Pliegues del cuello,3
+32,20-30,superior,frontal,Líneas horizontales de la frente,0
+32,20-30,superior,frontal,Líneas glabelares,0
+32,20-30,media,lateral,Líneas periorbitarias,0
+32,20-30,media,frontal,Surco infraorbitario,1
+32,20-30,media,frontal,Hipercromía del anillo orbitario,2
+32,20-30,media,lateral,Líneas periauriculares,0
+32,20-30,inferior,lateral,Pliegues de las mejillas,0
+32,20-30,inferior,frontal,Pliegues nasolabiales,1
+32,20-30,inferior,frontal,Líneas periorales,0
+32,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+32,20-30,inferior,frontal,Líneas de quelion,0
+32,20-30,inferior,frontal,Pliegue de la barbilla,0
+32,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+32,20-30,cuello,frontal,Pliegues del cuello,0
+33,20-30,superior,frontal,Líneas horizontales de la frente,0
+33,20-30,superior,frontal,Líneas glabelares,0
+33,20-30,media,lateral,Líneas periorbitarias,0
+33,20-30,media,frontal,Surco infraorbitario,2
+33,20-30,media,frontal,Hipercromía del anillo orbitario,0
+33,20-30,media,lateral,Líneas periauriculares,0
+33,20-30,inferior,lateral,Pliegues de las mejillas,0
+33,20-30,inferior,frontal,Pliegues nasolabiales,0
+33,20-30,inferior,frontal,Líneas periorales,0
+33,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+33,20-30,inferior,frontal,Líneas de quelion,0
+33,20-30,inferior,frontal,Pliegue de la barbilla,0
+33,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+33,20-30,cuello,frontal,Pliegues del cuello,1
+34,20-30,superior,frontal,Líneas horizontales de la frente,0
+34,20-30,superior,frontal,Líneas glabelares,0
+34,20-30,media,lateral,Líneas periorbitarias,0
+34,20-30,media,frontal,Surco infraorbitario,0
+34,20-30,media,frontal,Hipercromía del anillo orbitario,3
+34,20-30,media,lateral,Líneas periauriculares,0
+34,20-30,inferior,lateral,Pliegues de las mejillas,0
+34,20-30,inferior,frontal,Pliegues nasolabiales,0
+34,20-30,inferior,frontal,Líneas periorales,0
+34,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+34,20-30,inferior,frontal,Líneas de quelion,0
+34,20-30,inferior,frontal,Pliegue de la barbilla,0
+34,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+34,20-30,cuello,frontal,Pliegues del cuello,3
+35,20-30,superior,frontal,Líneas horizontales de la frente,0
+35,20-30,superior,frontal,Líneas glabelares,0
+35,20-30,media,lateral,Líneas periorbitarias,0
+35,20-30,media,frontal,Surco infraorbitario,0
+35,20-30,media,frontal,Hipercromía del anillo orbitario,3
+35,20-30,media,lateral,Líneas periauriculares,0
+35,20-30,inferior,lateral,Pliegues de las mejillas,0
+35,20-30,inferior,frontal,Pliegues nasolabiales,1
+35,20-30,inferior,frontal,Líneas periorales,0
+35,20-30,inferior,frontal,Líneas de la comisura de la boca,1
+35,20-30,inferior,frontal,Líneas de quelion,0
+35,20-30,inferior,frontal,Pliegue de la barbilla,0
+35,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+35,20-30,cuello,frontal,Pliegues del cuello,1
+36,20-30,superior,frontal,Líneas horizontales de la frente,0
+36,20-30,superior,frontal,Líneas glabelares,0
+36,20-30,media,lateral,Líneas periorbitarias,0
+36,20-30,media,frontal,Surco infraorbitario,0
+36,20-30,media,frontal,Hipercromía del anillo orbitario,3
+36,20-30,media,lateral,Líneas periauriculares,0
+36,20-30,inferior,lateral,Pliegues de las mejillas,0
+36,20-30,inferior,frontal,Pliegues nasolabiales,1
+36,20-30,inferior,frontal,Líneas periorales,0
+36,20-30,inferior,frontal,Líneas de la comisura de la boca,1
+36,20-30,inferior,frontal,Líneas de quelion,0
+36,20-30,inferior,frontal,Pliegue de la barbilla,0
+36,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+36,20-30,cuello,frontal,Pliegues del cuello,1
+37,20-30,superior,frontal,Líneas horizontales de la frente,0
+37,20-30,superior,frontal,Líneas glabelares,0
+37,20-30,media,lateral,Líneas periorbitarias,0
+37,20-30,media,frontal,Surco infraorbitario,2
+37,20-30,media,frontal,Hipercromía del anillo orbitario,0
+37,20-30,media,lateral,Líneas periauriculares,0
+37,20-30,inferior,lateral,Pliegues de las mejillas,0
+37,20-30,inferior,frontal,Pliegues nasolabiales,1
+37,20-30,inferior,frontal,Líneas periorales,0
+37,20-30,inferior,frontal,Líneas de la comisura de la boca,1
+37,20-30,inferior,frontal,Líneas de quelion,1
+37,20-30,inferior,frontal,Pliegue de la barbilla,0
+37,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+37,20-30,cuello,frontal,Pliegues del cuello,4
+38,20-30,superior,frontal,Líneas horizontales de la frente,1
+38,20-30,superior,frontal,Líneas glabelares,1
+38,20-30,media,lateral,Líneas periorbitarias,0
+38,20-30,media,frontal,Surco infraorbitario,2
+38,20-30,media,frontal,Hipercromía del anillo orbitario,2
+38,20-30,media,lateral,Líneas periauriculares,0
+38,20-30,inferior,lateral,Pliegues de las mejillas,0
+38,20-30,inferior,frontal,Pliegues nasolabiales,1
+38,20-30,inferior,frontal,Líneas periorales,0
+38,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+38,20-30,inferior,frontal,Líneas de quelion,0
+38,20-30,inferior,frontal,Pliegue de la barbilla,0
+38,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+38,20-30,cuello,frontal,Pliegues del cuello,3
+39,20-30,superior,frontal,Líneas horizontales de la frente,0
+39,20-30,superior,frontal,Líneas glabelares,0
+39,20-30,media,lateral,Líneas periorbitarias,0
+39,20-30,media,frontal,Surco infraorbitario,0
+39,20-30,media,frontal,Hipercromía del anillo orbitario,2
+39,20-30,media,lateral,Líneas periauriculares,0
+39,20-30,inferior,lateral,Pliegues de las mejillas,0
+39,20-30,inferior,frontal,Pliegues nasolabiales,0
+39,20-30,inferior,frontal,Líneas periorales,0
+39,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+39,20-30,inferior,frontal,Líneas de quelion,0
+39,20-30,inferior,frontal,Pliegue de la barbilla,0
+39,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+39,20-30,cuello,frontal,Pliegues del cuello,2
+40,20-30,superior,frontal,Líneas horizontales de la frente,0
+40,20-30,superior,frontal,Líneas glabelares,0
+40,20-30,media,lateral,Líneas periorbitarias,0
+40,20-30,media,frontal,Surco infraorbitario,0
+40,20-30,media,frontal,Hipercromía del anillo orbitario,3
+40,20-30,media,lateral,Líneas periauriculares,0
+40,20-30,inferior,lateral,Pliegues de las mejillas,0
+40,20-30,inferior,frontal,Pliegues nasolabiales,1
+40,20-30,inferior,frontal,Líneas periorales,0
+40,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+40,20-30,inferior,frontal,Líneas de quelion,0
+40,20-30,inferior,frontal,Pliegue de la barbilla,2
+40,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+40,20-30,cuello,frontal,Pliegues del cuello,3
+41,20-30,superior,frontal,Líneas horizontales de la frente,0
+41,20-30,superior,frontal,Líneas glabelares,0
+41,20-30,media,lateral,Líneas periorbitarias,0
+41,20-30,media,frontal,Surco infraorbitario,0
+41,20-30,media,frontal,Hipercromía del anillo orbitario,2
+41,20-30,media,lateral,Líneas periauriculares,NA
+41,20-30,inferior,lateral,Pliegues de las mejillas,0
+41,20-30,inferior,frontal,Pliegues nasolabiales,2
+41,20-30,inferior,frontal,Líneas periorales,0
+41,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+41,20-30,inferior,frontal,Líneas de quelion,0
+41,20-30,inferior,frontal,Pliegue de la barbilla,0
+41,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+41,20-30,cuello,frontal,Pliegues del cuello,3
+42,20-30,superior,frontal,Líneas horizontales de la frente,0
+42,20-30,superior,frontal,Líneas glabelares,0
+42,20-30,media,lateral,Líneas periorbitarias,0
+42,20-30,media,frontal,Surco infraorbitario,0
+42,20-30,media,frontal,Hipercromía del anillo orbitario,5
+42,20-30,media,lateral,Líneas periauriculares,0
+42,20-30,inferior,lateral,Pliegues de las mejillas,0
+42,20-30,inferior,frontal,Pliegues nasolabiales,0
+42,20-30,inferior,frontal,Líneas periorales,0
+42,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+42,20-30,inferior,frontal,Líneas de quelion,0
+42,20-30,inferior,frontal,Pliegue de la barbilla,0
+42,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+42,20-30,cuello,frontal,Pliegues del cuello,5
+43,20-30,superior,frontal,Líneas horizontales de la frente,0
+43,20-30,superior,frontal,Líneas glabelares,0
+43,20-30,media,lateral,Líneas periorbitarias,0
+43,20-30,media,frontal,Surco infraorbitario,2
+43,20-30,media,frontal,Hipercromía del anillo orbitario,4
+43,20-30,media,lateral,Líneas periauriculares,0
+43,20-30,inferior,lateral,Pliegues de las mejillas,0
+43,20-30,inferior,frontal,Pliegues nasolabiales,0
+43,20-30,inferior,frontal,Líneas periorales,0
+43,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+43,20-30,inferior,frontal,Líneas de quelion,0
+43,20-30,inferior,frontal,Pliegue de la barbilla,0
+43,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,2
+43,20-30,cuello,frontal,Pliegues del cuello,2
+44,20-30,superior,frontal,Líneas horizontales de la frente,0
+44,20-30,superior,frontal,Líneas glabelares,0
+44,20-30,media,lateral,Líneas periorbitarias,1
+44,20-30,media,frontal,Surco infraorbitario,0
+44,20-30,media,frontal,Hipercromía del anillo orbitario,5
+44,20-30,media,lateral,Líneas periauriculares,0
+44,20-30,inferior,lateral,Pliegues de las mejillas,0
+44,20-30,inferior,frontal,Pliegues nasolabiales,2
+44,20-30,inferior,frontal,Líneas periorales,0
+44,20-30,inferior,frontal,Líneas de la comisura de la boca,1
+44,20-30,inferior,frontal,Líneas de quelion,1
+44,20-30,inferior,frontal,Pliegue de la barbilla,1
+44,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,3
+44,20-30,cuello,frontal,Pliegues del cuello,5
+45,20-30,superior,frontal,Líneas horizontales de la frente,0
+45,20-30,superior,frontal,Líneas glabelares,0
+45,20-30,media,lateral,Líneas periorbitarias,0
+45,20-30,media,frontal,Surco infraorbitario,1
+45,20-30,media,frontal,Hipercromía del anillo orbitario,3
+45,20-30,media,lateral,Líneas periauriculares,0
+45,20-30,inferior,lateral,Pliegues de las mejillas,0
+45,20-30,inferior,frontal,Pliegues nasolabiales,1
+45,20-30,inferior,frontal,Líneas periorales,0
+45,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+45,20-30,inferior,frontal,Líneas de quelion,0
+45,20-30,inferior,frontal,Pliegue de la barbilla,0
+45,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+45,20-30,cuello,frontal,Pliegues del cuello,3
+46,20-30,superior,frontal,Líneas horizontales de la frente,0
+46,20-30,superior,frontal,Líneas glabelares,0
+46,20-30,media,lateral,Líneas periorbitarias,0
+46,20-30,media,frontal,Surco infraorbitario,1
+46,20-30,media,frontal,Hipercromía del anillo orbitario,2
+46,20-30,media,lateral,Líneas periauriculares,0
+46,20-30,inferior,lateral,Pliegues de las mejillas,0
+46,20-30,inferior,frontal,Pliegues nasolabiales,2
+46,20-30,inferior,frontal,Líneas periorales,0
+46,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+46,20-30,inferior,frontal,Líneas de quelion,0
+46,20-30,inferior,frontal,Pliegue de la barbilla,0
+46,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+46,20-30,cuello,frontal,Pliegues del cuello,3
+47,20-30,superior,frontal,Líneas horizontales de la frente,0
+47,20-30,superior,frontal,Líneas glabelares,0
+47,20-30,media,lateral,Líneas periorbitarias,0
+47,20-30,media,frontal,Surco infraorbitario,0
+47,20-30,media,frontal,Hipercromía del anillo orbitario,4
+47,20-30,media,lateral,Líneas periauriculares,0
+47,20-30,inferior,lateral,Pliegues de las mejillas,0
+47,20-30,inferior,frontal,Pliegues nasolabiales,1
+47,20-30,inferior,frontal,Líneas periorales,0
+47,20-30,inferior,frontal,Líneas de la comisura de la boca,1
+47,20-30,inferior,frontal,Líneas de quelion,0
+47,20-30,inferior,frontal,Pliegue de la barbilla,0
+47,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+47,20-30,cuello,frontal,Pliegues del cuello,4
+48,20-30,superior,frontal,Líneas horizontales de la frente,0
+48,20-30,superior,frontal,Líneas glabelares,1
+48,20-30,media,lateral,Líneas periorbitarias,0
+48,20-30,media,frontal,Surco infraorbitario,2
+48,20-30,media,frontal,Hipercromía del anillo orbitario,2
+48,20-30,media,lateral,Líneas periauriculares,0
+48,20-30,inferior,lateral,Pliegues de las mejillas,0
+48,20-30,inferior,frontal,Pliegues nasolabiales,0
+48,20-30,inferior,frontal,Líneas periorales,0
+48,20-30,inferior,frontal,Líneas de la comisura de la boca,1
+48,20-30,inferior,frontal,Líneas de quelion,0
+48,20-30,inferior,frontal,Pliegue de la barbilla,2
+48,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+48,20-30,cuello,frontal,Pliegues del cuello,5
+49,20-30,superior,frontal,Líneas horizontales de la frente,0
+49,20-30,superior,frontal,Líneas glabelares,0
+49,20-30,media,lateral,Líneas periorbitarias,0
+49,20-30,media,frontal,Surco infraorbitario,1
+49,20-30,media,frontal,Hipercromía del anillo orbitario,1
+49,20-30,media,lateral,Líneas periauriculares,0
+49,20-30,inferior,lateral,Pliegues de las mejillas,0
+49,20-30,inferior,frontal,Pliegues nasolabiales,2
+49,20-30,inferior,frontal,Líneas periorales,0
+49,20-30,inferior,frontal,Líneas de la comisura de la boca,1
+49,20-30,inferior,frontal,Líneas de quelion,0
+49,20-30,inferior,frontal,Pliegue de la barbilla,2
+49,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,2
+49,20-30,cuello,frontal,Pliegues del cuello,3
+50,20-30,superior,frontal,Líneas horizontales de la frente,0
+50,20-30,superior,frontal,Líneas glabelares,0
+50,20-30,media,lateral,Líneas periorbitarias,0
+50,20-30,media,frontal,Surco infraorbitario,0
+50,20-30,media,frontal,Hipercromía del anillo orbitario,2
+50,20-30,media,lateral,Líneas periauriculares,0
+50,20-30,inferior,lateral,Pliegues de las mejillas,0
+50,20-30,inferior,frontal,Pliegues nasolabiales,1
+50,20-30,inferior,frontal,Líneas periorales,0
+50,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+50,20-30,inferior,frontal,Líneas de quelion,1
+50,20-30,inferior,frontal,Pliegue de la barbilla,0
+50,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,2
+50,20-30,cuello,frontal,Pliegues del cuello,2
+51,20-30,superior,frontal,Líneas horizontales de la frente,0
+51,20-30,superior,frontal,Líneas glabelares,0
+51,20-30,media,lateral,Líneas periorbitarias,0
+51,20-30,media,frontal,Surco infraorbitario,0
+51,20-30,media,frontal,Hipercromía del anillo orbitario,1
+51,20-30,media,lateral,Líneas periauriculares,0
+51,20-30,inferior,lateral,Pliegues de las mejillas,0
+51,20-30,inferior,frontal,Pliegues nasolabiales,2
+51,20-30,inferior,frontal,Líneas periorales,0
+51,20-30,inferior,frontal,Líneas de la comisura de la boca,2
+51,20-30,inferior,frontal,Líneas de quelion,0
+51,20-30,inferior,frontal,Pliegue de la barbilla,3
+51,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,2
+51,20-30,cuello,frontal,Pliegues del cuello,5
+52,20-30,superior,frontal,Líneas horizontales de la frente,1
+52,20-30,superior,frontal,Líneas glabelares,0
+52,20-30,media,lateral,Líneas periorbitarias,0
+52,20-30,media,frontal,Surco infraorbitario,2
+52,20-30,media,frontal,Hipercromía del anillo orbitario,2
+52,20-30,media,lateral,Líneas periauriculares,0
+52,20-30,inferior,lateral,Pliegues de las mejillas,0
+52,20-30,inferior,frontal,Pliegues nasolabiales,1
+52,20-30,inferior,frontal,Líneas periorales,0
+52,20-30,inferior,frontal,Líneas de la comisura de la boca,1
+52,20-30,inferior,frontal,Líneas de quelion,0
+52,20-30,inferior,frontal,Pliegue de la barbilla,0
+52,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+52,20-30,cuello,frontal,Pliegues del cuello,3
+53,20-30,superior,frontal,Líneas horizontales de la frente,1
+53,20-30,superior,frontal,Líneas glabelares,0
+53,20-30,media,lateral,Líneas periorbitarias,0
+53,20-30,media,frontal,Surco infraorbitario,1
+53,20-30,media,frontal,Hipercromía del anillo orbitario,2
+53,20-30,media,lateral,Líneas periauriculares,NA
+53,20-30,inferior,lateral,Pliegues de las mejillas,0
+53,20-30,inferior,frontal,Pliegues nasolabiales,1
+53,20-30,inferior,frontal,Líneas periorales,0
+53,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+53,20-30,inferior,frontal,Líneas de quelion,0
+53,20-30,inferior,frontal,Pliegue de la barbilla,0
+53,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+53,20-30,cuello,frontal,Pliegues del cuello,4
+54,20-30,superior,frontal,Líneas horizontales de la frente,0
+54,20-30,superior,frontal,Líneas glabelares,1
+54,20-30,media,lateral,Líneas periorbitarias,0
+54,20-30,media,frontal,Surco infraorbitario,1
+54,20-30,media,frontal,Hipercromía del anillo orbitario,5
+54,20-30,media,lateral,Líneas periauriculares,0
+54,20-30,inferior,lateral,Pliegues de las mejillas,0
+54,20-30,inferior,frontal,Pliegues nasolabiales,1
+54,20-30,inferior,frontal,Líneas periorales,0
+54,20-30,inferior,frontal,Líneas de la comisura de la boca,1
+54,20-30,inferior,frontal,Líneas de quelion,0
+54,20-30,inferior,frontal,Pliegue de la barbilla,0
+54,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,2
+54,20-30,cuello,frontal,Pliegues del cuello,NA
+55,20-30,superior,frontal,Líneas horizontales de la frente,1
+55,20-30,superior,frontal,Líneas glabelares,0
+55,20-30,media,lateral,Líneas periorbitarias,0
+55,20-30,media,frontal,Surco infraorbitario,2
+55,20-30,media,frontal,Hipercromía del anillo orbitario,4
+55,20-30,media,lateral,Líneas periauriculares,0
+55,20-30,inferior,lateral,Pliegues de las mejillas,0
+55,20-30,inferior,frontal,Pliegues nasolabiales,2
+55,20-30,inferior,frontal,Líneas periorales,0
+55,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+55,20-30,inferior,frontal,Líneas de quelion,0
+55,20-30,inferior,frontal,Pliegue de la barbilla,2
+55,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,1
+55,20-30,cuello,frontal,Pliegues del cuello,2
+56,20-30,superior,frontal,Líneas horizontales de la frente,1
+56,20-30,superior,frontal,Líneas glabelares,0
+56,20-30,media,lateral,Líneas periorbitarias,1
+56,20-30,media,frontal,Surco infraorbitario,0
+56,20-30,media,frontal,Hipercromía del anillo orbitario,2
+56,20-30,media,lateral,Líneas periauriculares,0
+56,20-30,inferior,lateral,Pliegues de las mejillas,0
+56,20-30,inferior,frontal,Pliegues nasolabiales,1
+56,20-30,inferior,frontal,Líneas periorales,0
+56,20-30,inferior,frontal,Líneas de la comisura de la boca,2
+56,20-30,inferior,frontal,Líneas de quelion,1
+56,20-30,inferior,frontal,Pliegue de la barbilla,0
+56,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,3
+56,20-30,cuello,frontal,Pliegues del cuello,5
+57,20-30,superior,frontal,Líneas horizontales de la frente,3
+57,20-30,superior,frontal,Líneas glabelares,2
+57,20-30,media,lateral,Líneas periorbitarias,1
+57,20-30,media,frontal,Surco infraorbitario,1
+57,20-30,media,frontal,Hipercromía del anillo orbitario,2
+57,20-30,media,lateral,Líneas periauriculares,1
+57,20-30,inferior,lateral,Pliegues de las mejillas,0
+57,20-30,inferior,frontal,Pliegues nasolabiales,2
+57,20-30,inferior,frontal,Líneas periorales,0
+57,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+57,20-30,inferior,frontal,Líneas de quelion,0
+57,20-30,inferior,frontal,Pliegue de la barbilla,1
+57,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,2
+57,20-30,cuello,frontal,Pliegues del cuello,5
+58,20-30,superior,frontal,Líneas horizontales de la frente,1
+58,20-30,superior,frontal,Líneas glabelares,0
+58,20-30,media,lateral,Líneas periorbitarias,0
+58,20-30,media,frontal,Surco infraorbitario,2
+58,20-30,media,frontal,Hipercromía del anillo orbitario,5
+58,20-30,media,lateral,Líneas periauriculares,0
+58,20-30,inferior,lateral,Pliegues de las mejillas,0
+58,20-30,inferior,frontal,Pliegues nasolabiales,2
+58,20-30,inferior,frontal,Líneas periorales,0
+58,20-30,inferior,frontal,Líneas de la comisura de la boca,0
+58,20-30,inferior,frontal,Líneas de quelion,0
+58,20-30,inferior,frontal,Pliegue de la barbilla,0
+58,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,2
+58,20-30,cuello,frontal,Pliegues del cuello,5
+59,20-30,superior,frontal,Líneas horizontales de la frente,0
+59,20-30,superior,frontal,Líneas glabelares,0
+59,20-30,media,lateral,Líneas periorbitarias,0
+59,20-30,media,frontal,Surco infraorbitario,1
+59,20-30,media,frontal,Hipercromía del anillo orbitario,3
+59,20-30,media,lateral,Líneas periauriculares,0
+59,20-30,inferior,lateral,Pliegues de las mejillas,1
+59,20-30,inferior,frontal,Pliegues nasolabiales,2
+59,20-30,inferior,frontal,Líneas periorales,0
+59,20-30,inferior,frontal,Líneas de la comisura de la boca,1
+59,20-30,inferior,frontal,Líneas de quelion,0
+59,20-30,inferior,frontal,Pliegue de la barbilla,0
+59,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,2
+59,20-30,cuello,frontal,Pliegues del cuello,3
+60,20-30,superior,frontal,Líneas horizontales de la frente,1
+60,20-30,superior,frontal,Líneas glabelares,0
+60,20-30,media,lateral,Líneas periorbitarias,0
+60,20-30,media,frontal,Surco infraorbitario,1
+60,20-30,media,frontal,Hipercromía del anillo orbitario,3
+60,20-30,media,lateral,Líneas periauriculares,0
+60,20-30,inferior,lateral,Pliegues de las mejillas,0
+60,20-30,inferior,frontal,Pliegues nasolabiales,2
+60,20-30,inferior,frontal,Líneas periorales,0
+60,20-30,inferior,frontal,Líneas de la comisura de la boca,1
+60,20-30,inferior,frontal,Líneas de quelion,1
+60,20-30,inferior,frontal,Pliegue de la barbilla,3
+60,20-30,inferior,lateral,Flacidez de la piel de la mandíbula,2
+60,20-30,cuello,frontal,Pliegues del cuello,5
+61,30-40,superior,frontal,Líneas horizontales de la frente,NA
+61,30-40,superior,frontal,Líneas glabelares,0
+61,30-40,media,lateral,Líneas periorbitarias,0
+61,30-40,media,frontal,Surco infraorbitario,0
+61,30-40,media,frontal,Hipercromía del anillo orbitario,1
+61,30-40,media,lateral,Líneas periauriculares,0
+61,30-40,inferior,lateral,Pliegues de las mejillas,1
+61,30-40,inferior,frontal,Pliegues nasolabiales,2
+61,30-40,inferior,frontal,Líneas periorales,0
+61,30-40,inferior,frontal,Líneas de la comisura de la boca,1
+61,30-40,inferior,frontal,Líneas de quelion,0
+61,30-40,inferior,frontal,Pliegue de la barbilla,2
+61,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,2
+61,30-40,cuello,frontal,Pliegues del cuello,3
+62,30-40,superior,frontal,Líneas horizontales de la frente,0
+62,30-40,superior,frontal,Líneas glabelares,1
+62,30-40,media,lateral,Líneas periorbitarias,0
+62,30-40,media,frontal,Surco infraorbitario,0
+62,30-40,media,frontal,Hipercromía del anillo orbitario,1
+62,30-40,media,lateral,Líneas periauriculares,0
+62,30-40,inferior,lateral,Pliegues de las mejillas,1
+62,30-40,inferior,frontal,Pliegues nasolabiales,1
+62,30-40,inferior,frontal,Líneas periorales,0
+62,30-40,inferior,frontal,Líneas de la comisura de la boca,2
+62,30-40,inferior,frontal,Líneas de quelion,0
+62,30-40,inferior,frontal,Pliegue de la barbilla,0
+62,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,2
+62,30-40,cuello,frontal,Pliegues del cuello,5
+63,30-40,superior,frontal,Líneas horizontales de la frente,1
+63,30-40,superior,frontal,Líneas glabelares,1
+63,30-40,media,lateral,Líneas periorbitarias,0
+63,30-40,media,frontal,Surco infraorbitario,0
+63,30-40,media,frontal,Hipercromía del anillo orbitario,3
+63,30-40,media,lateral,Líneas periauriculares,0
+63,30-40,inferior,lateral,Pliegues de las mejillas,0
+63,30-40,inferior,frontal,Pliegues nasolabiales,3
+63,30-40,inferior,frontal,Líneas periorales,0
+63,30-40,inferior,frontal,Líneas de la comisura de la boca,1
+63,30-40,inferior,frontal,Líneas de quelion,0
+63,30-40,inferior,frontal,Pliegue de la barbilla,2
+63,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,2
+63,30-40,cuello,frontal,Pliegues del cuello,4
+64,30-40,superior,frontal,Líneas horizontales de la frente,0
+64,30-40,superior,frontal,Líneas glabelares,0
+64,30-40,media,lateral,Líneas periorbitarias,0
+64,30-40,media,frontal,Surco infraorbitario,1
+64,30-40,media,frontal,Hipercromía del anillo orbitario,4
+64,30-40,media,lateral,Líneas periauriculares,0
+64,30-40,inferior,lateral,Pliegues de las mejillas,0
+64,30-40,inferior,frontal,Pliegues nasolabiales,1
+64,30-40,inferior,frontal,Líneas periorales,0
+64,30-40,inferior,frontal,Líneas de la comisura de la boca,0
+64,30-40,inferior,frontal,Líneas de quelion,1
+64,30-40,inferior,frontal,Pliegue de la barbilla,0
+64,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,1
+64,30-40,cuello,frontal,Pliegues del cuello,4
+65,30-40,superior,frontal,Líneas horizontales de la frente,0
+65,30-40,superior,frontal,Líneas glabelares,0
+65,30-40,media,lateral,Líneas periorbitarias,1
+65,30-40,media,frontal,Surco infraorbitario,0
+65,30-40,media,frontal,Hipercromía del anillo orbitario,2
+65,30-40,media,lateral,Líneas periauriculares,0
+65,30-40,inferior,lateral,Pliegues de las mejillas,0
+65,30-40,inferior,frontal,Pliegues nasolabiales,1
+65,30-40,inferior,frontal,Líneas periorales,0
+65,30-40,inferior,frontal,Líneas de la comisura de la boca,0
+65,30-40,inferior,frontal,Líneas de quelion,0
+65,30-40,inferior,frontal,Pliegue de la barbilla,2
+65,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,2
+65,30-40,cuello,frontal,Pliegues del cuello,2
+66,30-40,superior,frontal,Líneas horizontales de la frente,0
+66,30-40,superior,frontal,Líneas glabelares,1
+66,30-40,media,lateral,Líneas periorbitarias,0
+66,30-40,media,frontal,Surco infraorbitario,1
+66,30-40,media,frontal,Hipercromía del anillo orbitario,3
+66,30-40,media,lateral,Líneas periauriculares,0
+66,30-40,inferior,lateral,Pliegues de las mejillas,0
+66,30-40,inferior,frontal,Pliegues nasolabiales,1
+66,30-40,inferior,frontal,Líneas periorales,0
+66,30-40,inferior,frontal,Líneas de la comisura de la boca,1
+66,30-40,inferior,frontal,Líneas de quelion,1
+66,30-40,inferior,frontal,Pliegue de la barbilla,0
+66,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,1
+66,30-40,cuello,frontal,Pliegues del cuello,3
+67,30-40,superior,frontal,Líneas horizontales de la frente,1
+67,30-40,superior,frontal,Líneas glabelares,0
+67,30-40,media,lateral,Líneas periorbitarias,0
+67,30-40,media,frontal,Surco infraorbitario,0
+67,30-40,media,frontal,Hipercromía del anillo orbitario,4
+67,30-40,media,lateral,Líneas periauriculares,0
+67,30-40,inferior,lateral,Pliegues de las mejillas,0
+67,30-40,inferior,frontal,Pliegues nasolabiales,2
+67,30-40,inferior,frontal,Líneas periorales,0
+67,30-40,inferior,frontal,Líneas de la comisura de la boca,1
+67,30-40,inferior,frontal,Líneas de quelion,0
+67,30-40,inferior,frontal,Pliegue de la barbilla,1
+67,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,1
+67,30-40,cuello,frontal,Pliegues del cuello,3
+68,30-40,superior,frontal,Líneas horizontales de la frente,1
+68,30-40,superior,frontal,Líneas glabelares,0
+68,30-40,media,lateral,Líneas periorbitarias,0
+68,30-40,media,frontal,Surco infraorbitario,1
+68,30-40,media,frontal,Hipercromía del anillo orbitario,2
+68,30-40,media,lateral,Líneas periauriculares,0
+68,30-40,inferior,lateral,Pliegues de las mejillas,0
+68,30-40,inferior,frontal,Pliegues nasolabiales,0
+68,30-40,inferior,frontal,Líneas periorales,0
+68,30-40,inferior,frontal,Líneas de la comisura de la boca,1
+68,30-40,inferior,frontal,Líneas de quelion,0
+68,30-40,inferior,frontal,Pliegue de la barbilla,2
+68,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,1
+68,30-40,cuello,frontal,Pliegues del cuello,3
+69,30-40,superior,frontal,Líneas horizontales de la frente,NA
+69,30-40,superior,frontal,Líneas glabelares,1
+69,30-40,media,lateral,Líneas periorbitarias,0
+69,30-40,media,frontal,Surco infraorbitario,0
+69,30-40,media,frontal,Hipercromía del anillo orbitario,3
+69,30-40,media,lateral,Líneas periauriculares,0
+69,30-40,inferior,lateral,Pliegues de las mejillas,0
+69,30-40,inferior,frontal,Pliegues nasolabiales,1
+69,30-40,inferior,frontal,Líneas periorales,0
+69,30-40,inferior,frontal,Líneas de la comisura de la boca,1
+69,30-40,inferior,frontal,Líneas de quelion,0
+69,30-40,inferior,frontal,Pliegue de la barbilla,0
+69,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,2
+69,30-40,cuello,frontal,Pliegues del cuello,3
+70,30-40,superior,frontal,Líneas horizontales de la frente,0
+70,30-40,superior,frontal,Líneas glabelares,1
+70,30-40,media,lateral,Líneas periorbitarias,0
+70,30-40,media,frontal,Surco infraorbitario,1
+70,30-40,media,frontal,Hipercromía del anillo orbitario,3
+70,30-40,media,lateral,Líneas periauriculares,0
+70,30-40,inferior,lateral,Pliegues de las mejillas,0
+70,30-40,inferior,frontal,Pliegues nasolabiales,2
+70,30-40,inferior,frontal,Líneas periorales,0
+70,30-40,inferior,frontal,Líneas de la comisura de la boca,0
+70,30-40,inferior,frontal,Líneas de quelion,0
+70,30-40,inferior,frontal,Pliegue de la barbilla,1
+70,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,1
+70,30-40,cuello,frontal,Pliegues del cuello,4
+71,30-40,superior,frontal,Líneas horizontales de la frente,1
+71,30-40,superior,frontal,Líneas glabelares,0
+71,30-40,media,lateral,Líneas periorbitarias,0
+71,30-40,media,frontal,Surco infraorbitario,0
+71,30-40,media,frontal,Hipercromía del anillo orbitario,3
+71,30-40,media,lateral,Líneas periauriculares,0
+71,30-40,inferior,lateral,Pliegues de las mejillas,0
+71,30-40,inferior,frontal,Pliegues nasolabiales,1
+71,30-40,inferior,frontal,Líneas periorales,0
+71,30-40,inferior,frontal,Líneas de la comisura de la boca,0
+71,30-40,inferior,frontal,Líneas de quelion,0
+71,30-40,inferior,frontal,Pliegue de la barbilla,0
+71,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,1
+71,30-40,cuello,frontal,Pliegues del cuello,4
+72,30-40,superior,frontal,Líneas horizontales de la frente,0
+72,30-40,superior,frontal,Líneas glabelares,0
+72,30-40,media,lateral,Líneas periorbitarias,0
+72,30-40,media,frontal,Surco infraorbitario,0
+72,30-40,media,frontal,Hipercromía del anillo orbitario,5
+72,30-40,media,lateral,Líneas periauriculares,0
+72,30-40,inferior,lateral,Pliegues de las mejillas,0
+72,30-40,inferior,frontal,Pliegues nasolabiales,1
+72,30-40,inferior,frontal,Líneas periorales,0
+72,30-40,inferior,frontal,Líneas de la comisura de la boca,0
+72,30-40,inferior,frontal,Líneas de quelion,0
+72,30-40,inferior,frontal,Pliegue de la barbilla,0
+72,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,1
+72,30-40,cuello,frontal,Pliegues del cuello,2
+73,30-40,superior,frontal,Líneas horizontales de la frente,0
+73,30-40,superior,frontal,Líneas glabelares,0
+73,30-40,media,lateral,Líneas periorbitarias,0
+73,30-40,media,frontal,Surco infraorbitario,1
+73,30-40,media,frontal,Hipercromía del anillo orbitario,3
+73,30-40,media,lateral,Líneas periauriculares,0
+73,30-40,inferior,lateral,Pliegues de las mejillas,0
+73,30-40,inferior,frontal,Pliegues nasolabiales,0
+73,30-40,inferior,frontal,Líneas periorales,0
+73,30-40,inferior,frontal,Líneas de la comisura de la boca,0
+73,30-40,inferior,frontal,Líneas de quelion,1
+73,30-40,inferior,frontal,Pliegue de la barbilla,2
+73,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,1
+73,30-40,cuello,frontal,Pliegues del cuello,1
+74,30-40,superior,frontal,Líneas horizontales de la frente,NA
+74,30-40,superior,frontal,Líneas glabelares,0
+74,30-40,media,lateral,Líneas periorbitarias,3
+74,30-40,media,frontal,Surco infraorbitario,2
+74,30-40,media,frontal,Hipercromía del anillo orbitario,2
+74,30-40,media,lateral,Líneas periauriculares,0
+74,30-40,inferior,lateral,Pliegues de las mejillas,0
+74,30-40,inferior,frontal,Pliegues nasolabiales,2
+74,30-40,inferior,frontal,Líneas periorales,0
+74,30-40,inferior,frontal,Líneas de la comisura de la boca,0
+74,30-40,inferior,frontal,Líneas de quelion,1
+74,30-40,inferior,frontal,Pliegue de la barbilla,0
+74,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,2
+74,30-40,cuello,frontal,Pliegues del cuello,5
+75,30-40,superior,frontal,Líneas horizontales de la frente,1
+75,30-40,superior,frontal,Líneas glabelares,1
+75,30-40,media,lateral,Líneas periorbitarias,3
+75,30-40,media,frontal,Surco infraorbitario,3
+75,30-40,media,frontal,Hipercromía del anillo orbitario,3
+75,30-40,media,lateral,Líneas periauriculares,0
+75,30-40,inferior,lateral,Pliegues de las mejillas,0
+75,30-40,inferior,frontal,Pliegues nasolabiales,2
+75,30-40,inferior,frontal,Líneas periorales,0
+75,30-40,inferior,frontal,Líneas de la comisura de la boca,1
+75,30-40,inferior,frontal,Líneas de quelion,0
+75,30-40,inferior,frontal,Pliegue de la barbilla,1
+75,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,2
+75,30-40,cuello,frontal,Pliegues del cuello,4
+76,30-40,superior,frontal,Líneas horizontales de la frente,0
+76,30-40,superior,frontal,Líneas glabelares,1
+76,30-40,media,lateral,Líneas periorbitarias,2
+76,30-40,media,frontal,Surco infraorbitario,2
+76,30-40,media,frontal,Hipercromía del anillo orbitario,3
+76,30-40,media,lateral,Líneas periauriculares,NA
+76,30-40,inferior,lateral,Pliegues de las mejillas,0
+76,30-40,inferior,frontal,Pliegues nasolabiales,2
+76,30-40,inferior,frontal,Líneas periorales,0
+76,30-40,inferior,frontal,Líneas de la comisura de la boca,0
+76,30-40,inferior,frontal,Líneas de quelion,0
+76,30-40,inferior,frontal,Pliegue de la barbilla,2
+76,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,2
+76,30-40,cuello,frontal,Pliegues del cuello,3
+77,30-40,superior,frontal,Líneas horizontales de la frente,1
+77,30-40,superior,frontal,Líneas glabelares,0
+77,30-40,media,lateral,Líneas periorbitarias,0
+77,30-40,media,frontal,Surco infraorbitario,0
+77,30-40,media,frontal,Hipercromía del anillo orbitario,2
+77,30-40,media,lateral,Líneas periauriculares,NA
+77,30-40,inferior,lateral,Pliegues de las mejillas,0
+77,30-40,inferior,frontal,Pliegues nasolabiales,1
+77,30-40,inferior,frontal,Líneas periorales,0
+77,30-40,inferior,frontal,Líneas de la comisura de la boca,0
+77,30-40,inferior,frontal,Líneas de quelion,0
+77,30-40,inferior,frontal,Pliegue de la barbilla,0
+77,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,1
+77,30-40,cuello,frontal,Pliegues del cuello,0
+78,30-40,superior,frontal,Líneas horizontales de la frente,0
+78,30-40,superior,frontal,Líneas glabelares,1
+78,30-40,media,lateral,Líneas periorbitarias,1
+78,30-40,media,frontal,Surco infraorbitario,1
+78,30-40,media,frontal,Hipercromía del anillo orbitario,3
+78,30-40,media,lateral,Líneas periauriculares,NA
+78,30-40,inferior,lateral,Pliegues de las mejillas,0
+78,30-40,inferior,frontal,Pliegues nasolabiales,2
+78,30-40,inferior,frontal,Líneas periorales,0
+78,30-40,inferior,frontal,Líneas de la comisura de la boca,0
+78,30-40,inferior,frontal,Líneas de quelion,0
+78,30-40,inferior,frontal,Pliegue de la barbilla,0
+78,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,1
+78,30-40,cuello,frontal,Pliegues del cuello,1
+79,30-40,superior,frontal,Líneas horizontales de la frente,1
+79,30-40,superior,frontal,Líneas glabelares,1
+79,30-40,media,lateral,Líneas periorbitarias,1
+79,30-40,media,frontal,Surco infraorbitario,0
+79,30-40,media,frontal,Hipercromía del anillo orbitario,5
+79,30-40,media,lateral,Líneas periauriculares,0
+79,30-40,inferior,lateral,Pliegues de las mejillas,0
+79,30-40,inferior,frontal,Pliegues nasolabiales,2
+79,30-40,inferior,frontal,Líneas periorales,0
+79,30-40,inferior,frontal,Líneas de la comisura de la boca,0
+79,30-40,inferior,frontal,Líneas de quelion,1
+79,30-40,inferior,frontal,Pliegue de la barbilla,2
+79,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,1
+79,30-40,cuello,frontal,Pliegues del cuello,4
+80,30-40,superior,frontal,Líneas horizontales de la frente,2
+80,30-40,superior,frontal,Líneas glabelares,2
+80,30-40,media,lateral,Líneas periorbitarias,1
+80,30-40,media,frontal,Surco infraorbitario,2
+80,30-40,media,frontal,Hipercromía del anillo orbitario,3
+80,30-40,media,lateral,Líneas periauriculares,0
+80,30-40,inferior,lateral,Pliegues de las mejillas,0
+80,30-40,inferior,frontal,Pliegues nasolabiales,2
+80,30-40,inferior,frontal,Líneas periorales,0
+80,30-40,inferior,frontal,Líneas de la comisura de la boca,1
+80,30-40,inferior,frontal,Líneas de quelion,1
+80,30-40,inferior,frontal,Pliegue de la barbilla,2
+80,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,2
+80,30-40,cuello,frontal,Pliegues del cuello,5
+81,30-40,superior,frontal,Líneas horizontales de la frente,1
+81,30-40,superior,frontal,Líneas glabelares,1
+81,30-40,media,lateral,Líneas periorbitarias,1
+81,30-40,media,frontal,Surco infraorbitario,1
+81,30-40,media,frontal,Hipercromía del anillo orbitario,3
+81,30-40,media,lateral,Líneas periauriculares,NA
+81,30-40,inferior,lateral,Pliegues de las mejillas,0
+81,30-40,inferior,frontal,Pliegues nasolabiales,2
+81,30-40,inferior,frontal,Líneas periorales,0
+81,30-40,inferior,frontal,Líneas de la comisura de la boca,2
+81,30-40,inferior,frontal,Líneas de quelion,0
+81,30-40,inferior,frontal,Pliegue de la barbilla,0
+81,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,1
+81,30-40,cuello,frontal,Pliegues del cuello,5
+82,30-40,superior,frontal,Líneas horizontales de la frente,1
+82,30-40,superior,frontal,Líneas glabelares,1
+82,30-40,media,lateral,Líneas periorbitarias,0
+82,30-40,media,frontal,Surco infraorbitario,3
+82,30-40,media,frontal,Hipercromía del anillo orbitario,5
+82,30-40,media,lateral,Líneas periauriculares,0
+82,30-40,inferior,lateral,Pliegues de las mejillas,1
+82,30-40,inferior,frontal,Pliegues nasolabiales,1
+82,30-40,inferior,frontal,Líneas periorales,0
+82,30-40,inferior,frontal,Líneas de la comisura de la boca,1
+82,30-40,inferior,frontal,Líneas de quelion,1
+82,30-40,inferior,frontal,Pliegue de la barbilla,1
+82,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,1
+82,30-40,cuello,frontal,Pliegues del cuello,5
+83,30-40,superior,frontal,Líneas horizontales de la frente,1
+83,30-40,superior,frontal,Líneas glabelares,2
+83,30-40,media,lateral,Líneas periorbitarias,1
+83,30-40,media,frontal,Surco infraorbitario,2
+83,30-40,media,frontal,Hipercromía del anillo orbitario,5
+83,30-40,media,lateral,Líneas periauriculares,0
+83,30-40,inferior,lateral,Pliegues de las mejillas,0
+83,30-40,inferior,frontal,Pliegues nasolabiales,1
+83,30-40,inferior,frontal,Líneas periorales,0
+83,30-40,inferior,frontal,Líneas de la comisura de la boca,0
+83,30-40,inferior,frontal,Líneas de quelion,0
+83,30-40,inferior,frontal,Pliegue de la barbilla,1
+83,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,2
+83,30-40,cuello,frontal,Pliegues del cuello,5
+84,30-40,superior,frontal,Líneas horizontales de la frente,1
+84,30-40,superior,frontal,Líneas glabelares,0
+84,30-40,media,lateral,Líneas periorbitarias,1
+84,30-40,media,frontal,Surco infraorbitario,2
+84,30-40,media,frontal,Hipercromía del anillo orbitario,4
+84,30-40,media,lateral,Líneas periauriculares,0
+84,30-40,inferior,lateral,Pliegues de las mejillas,0
+84,30-40,inferior,frontal,Pliegues nasolabiales,4
+84,30-40,inferior,frontal,Líneas periorales,0
+84,30-40,inferior,frontal,Líneas de la comisura de la boca,2
+84,30-40,inferior,frontal,Líneas de quelion,1
+84,30-40,inferior,frontal,Pliegue de la barbilla,0
+84,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,3
+84,30-40,cuello,frontal,Pliegues del cuello,5
+85,30-40,superior,frontal,Líneas horizontales de la frente,0
+85,30-40,superior,frontal,Líneas glabelares,0
+85,30-40,media,lateral,Líneas periorbitarias,1
+85,30-40,media,frontal,Surco infraorbitario,0
+85,30-40,media,frontal,Hipercromía del anillo orbitario,4
+85,30-40,media,lateral,Líneas periauriculares,0
+85,30-40,inferior,lateral,Pliegues de las mejillas,1
+85,30-40,inferior,frontal,Pliegues nasolabiales,3
+85,30-40,inferior,frontal,Líneas periorales,0
+85,30-40,inferior,frontal,Líneas de la comisura de la boca,2
+85,30-40,inferior,frontal,Líneas de quelion,1
+85,30-40,inferior,frontal,Pliegue de la barbilla,0
+85,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,1
+85,30-40,cuello,frontal,Pliegues del cuello,1
+86,30-40,superior,frontal,Líneas horizontales de la frente,0
+86,30-40,superior,frontal,Líneas glabelares,0
+86,30-40,media,lateral,Líneas periorbitarias,0
+86,30-40,media,frontal,Surco infraorbitario,0
+86,30-40,media,frontal,Hipercromía del anillo orbitario,0
+86,30-40,media,lateral,Líneas periauriculares,0
+86,30-40,inferior,lateral,Pliegues de las mejillas,0
+86,30-40,inferior,frontal,Pliegues nasolabiales,1
+86,30-40,inferior,frontal,Líneas periorales,0
+86,30-40,inferior,frontal,Líneas de la comisura de la boca,1
+86,30-40,inferior,frontal,Líneas de quelion,0
+86,30-40,inferior,frontal,Pliegue de la barbilla,0
+86,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,2
+86,30-40,cuello,frontal,Pliegues del cuello,5
+87,30-40,superior,frontal,Líneas horizontales de la frente,0
+87,30-40,superior,frontal,Líneas glabelares,0
+87,30-40,media,lateral,Líneas periorbitarias,0
+87,30-40,media,frontal,Surco infraorbitario,0
+87,30-40,media,frontal,Hipercromía del anillo orbitario,2
+87,30-40,media,lateral,Líneas periauriculares,0
+87,30-40,inferior,lateral,Pliegues de las mejillas,0
+87,30-40,inferior,frontal,Pliegues nasolabiales,1
+87,30-40,inferior,frontal,Líneas periorales,0
+87,30-40,inferior,frontal,Líneas de la comisura de la boca,0
+87,30-40,inferior,frontal,Líneas de quelion,0
+87,30-40,inferior,frontal,Pliegue de la barbilla,2
+87,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,1
+87,30-40,cuello,frontal,Pliegues del cuello,5
+88,30-40,superior,frontal,Líneas horizontales de la frente,NA
+88,30-40,superior,frontal,Líneas glabelares,1
+88,30-40,media,lateral,Líneas periorbitarias,0
+88,30-40,media,frontal,Surco infraorbitario,1
+88,30-40,media,frontal,Hipercromía del anillo orbitario,5
+88,30-40,media,lateral,Líneas periauriculares,0
+88,30-40,inferior,lateral,Pliegues de las mejillas,0
+88,30-40,inferior,frontal,Pliegues nasolabiales,2
+88,30-40,inferior,frontal,Líneas periorales,0
+88,30-40,inferior,frontal,Líneas de la comisura de la boca,1
+88,30-40,inferior,frontal,Líneas de quelion,0
+88,30-40,inferior,frontal,Pliegue de la barbilla,2
+88,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,1
+88,30-40,cuello,frontal,Pliegues del cuello,3
+89,30-40,superior,frontal,Líneas horizontales de la frente,1
+89,30-40,superior,frontal,Líneas glabelares,1
+89,30-40,media,lateral,Líneas periorbitarias,2
+89,30-40,media,frontal,Surco infraorbitario,1
+89,30-40,media,frontal,Hipercromía del anillo orbitario,3
+89,30-40,media,lateral,Líneas periauriculares,NA
+89,30-40,inferior,lateral,Pliegues de las mejillas,1
+89,30-40,inferior,frontal,Pliegues nasolabiales,1
+89,30-40,inferior,frontal,Líneas periorales,1
+89,30-40,inferior,frontal,Líneas de la comisura de la boca,0
+89,30-40,inferior,frontal,Líneas de quelion,1
+89,30-40,inferior,frontal,Pliegue de la barbilla,5
+89,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,2
+89,30-40,cuello,frontal,Pliegues del cuello,5
+90,30-40,superior,frontal,Líneas horizontales de la frente,1
+90,30-40,superior,frontal,Líneas glabelares,1
+90,30-40,media,lateral,Líneas periorbitarias,1
+90,30-40,media,frontal,Surco infraorbitario,3
+90,30-40,media,frontal,Hipercromía del anillo orbitario,5
+90,30-40,media,lateral,Líneas periauriculares,0
+90,30-40,inferior,lateral,Pliegues de las mejillas,1
+90,30-40,inferior,frontal,Pliegues nasolabiales,2
+90,30-40,inferior,frontal,Líneas periorales,0
+90,30-40,inferior,frontal,Líneas de la comisura de la boca,1
+90,30-40,inferior,frontal,Líneas de quelion,1
+90,30-40,inferior,frontal,Pliegue de la barbilla,1
+90,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,1
+90,30-40,cuello,frontal,Pliegues del cuello,5
+91,30-40,superior,frontal,Líneas horizontales de la frente,1
+91,30-40,superior,frontal,Líneas glabelares,1
+91,30-40,media,lateral,Líneas periorbitarias,0
+91,30-40,media,frontal,Surco infraorbitario,0
+91,30-40,media,frontal,Hipercromía del anillo orbitario,2
+91,30-40,media,lateral,Líneas periauriculares,0
+91,30-40,inferior,lateral,Pliegues de las mejillas,0
+91,30-40,inferior,frontal,Pliegues nasolabiales,2
+91,30-40,inferior,frontal,Líneas periorales,0
+91,30-40,inferior,frontal,Líneas de la comisura de la boca,0
+91,30-40,inferior,frontal,Líneas de quelion,0
+91,30-40,inferior,frontal,Pliegue de la barbilla,3
+91,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,1
+91,30-40,cuello,frontal,Pliegues del cuello,5
+92,30-40,superior,frontal,Líneas horizontales de la frente,2
+92,30-40,superior,frontal,Líneas glabelares,1
+92,30-40,media,lateral,Líneas periorbitarias,1
+92,30-40,media,frontal,Surco infraorbitario,2
+92,30-40,media,frontal,Hipercromía del anillo orbitario,4
+92,30-40,media,lateral,Líneas periauriculares,2
+92,30-40,inferior,lateral,Pliegues de las mejillas,0
+92,30-40,inferior,frontal,Pliegues nasolabiales,3
+92,30-40,inferior,frontal,Líneas periorales,2
+92,30-40,inferior,frontal,Líneas de la comisura de la boca,3
+92,30-40,inferior,frontal,Líneas de quelion,1
+92,30-40,inferior,frontal,Pliegue de la barbilla,0
+92,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,3
+92,30-40,cuello,frontal,Pliegues del cuello,5
+93,30-40,superior,frontal,Líneas horizontales de la frente,1
+93,30-40,superior,frontal,Líneas glabelares,1
+93,30-40,media,lateral,Líneas periorbitarias,0
+93,30-40,media,frontal,Surco infraorbitario,3
+93,30-40,media,frontal,Hipercromía del anillo orbitario,5
+93,30-40,media,lateral,Líneas periauriculares,0
+93,30-40,inferior,lateral,Pliegues de las mejillas,0
+93,30-40,inferior,frontal,Pliegues nasolabiales,3
+93,30-40,inferior,frontal,Líneas periorales,0
+93,30-40,inferior,frontal,Líneas de la comisura de la boca,1
+93,30-40,inferior,frontal,Líneas de quelion,1
+93,30-40,inferior,frontal,Pliegue de la barbilla,2
+93,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,1
+93,30-40,cuello,frontal,Pliegues del cuello,4
+94,30-40,superior,frontal,Líneas horizontales de la frente,1
+94,30-40,superior,frontal,Líneas glabelares,1
+94,30-40,media,lateral,Líneas periorbitarias,1
+94,30-40,media,frontal,Surco infraorbitario,4
+94,30-40,media,frontal,Hipercromía del anillo orbitario,5
+94,30-40,media,lateral,Líneas periauriculares,0
+94,30-40,inferior,lateral,Pliegues de las mejillas,1
+94,30-40,inferior,frontal,Pliegues nasolabiales,2
+94,30-40,inferior,frontal,Líneas periorales,0
+94,30-40,inferior,frontal,Líneas de la comisura de la boca,0
+94,30-40,inferior,frontal,Líneas de quelion,1
+94,30-40,inferior,frontal,Pliegue de la barbilla,2
+94,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,2
+94,30-40,cuello,frontal,Pliegues del cuello,2
+95,30-40,superior,frontal,Líneas horizontales de la frente,1
+95,30-40,superior,frontal,Líneas glabelares,1
+95,30-40,media,lateral,Líneas periorbitarias,1
+95,30-40,media,frontal,Surco infraorbitario,1
+95,30-40,media,frontal,Hipercromía del anillo orbitario,4
+95,30-40,media,lateral,Líneas periauriculares,0
+95,30-40,inferior,lateral,Pliegues de las mejillas,0
+95,30-40,inferior,frontal,Pliegues nasolabiales,2
+95,30-40,inferior,frontal,Líneas periorales,0
+95,30-40,inferior,frontal,Líneas de la comisura de la boca,0
+95,30-40,inferior,frontal,Líneas de quelion,2
+95,30-40,inferior,frontal,Pliegue de la barbilla,0
+95,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,2
+95,30-40,cuello,frontal,Pliegues del cuello,5
+96,30-40,superior,frontal,Líneas horizontales de la frente,0
+96,30-40,superior,frontal,Líneas glabelares,1
+96,30-40,media,lateral,Líneas periorbitarias,2
+96,30-40,media,frontal,Surco infraorbitario,4
+96,30-40,media,frontal,Hipercromía del anillo orbitario,7
+96,30-40,media,lateral,Líneas periauriculares,1
+96,30-40,inferior,lateral,Pliegues de las mejillas,1
+96,30-40,inferior,frontal,Pliegues nasolabiales,2
+96,30-40,inferior,frontal,Líneas periorales,1
+96,30-40,inferior,frontal,Líneas de la comisura de la boca,0
+96,30-40,inferior,frontal,Líneas de quelion,0
+96,30-40,inferior,frontal,Pliegue de la barbilla,0
+96,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,2
+96,30-40,cuello,frontal,Pliegues del cuello,1
+97,30-40,superior,frontal,Líneas horizontales de la frente,1
+97,30-40,superior,frontal,Líneas glabelares,0
+97,30-40,media,lateral,Líneas periorbitarias,0
+97,30-40,media,frontal,Surco infraorbitario,1
+97,30-40,media,frontal,Hipercromía del anillo orbitario,3
+97,30-40,media,lateral,Líneas periauriculares,0
+97,30-40,inferior,lateral,Pliegues de las mejillas,1
+97,30-40,inferior,frontal,Pliegues nasolabiales,3
+97,30-40,inferior,frontal,Líneas periorales,0
+97,30-40,inferior,frontal,Líneas de la comisura de la boca,2
+97,30-40,inferior,frontal,Líneas de quelion,1
+97,30-40,inferior,frontal,Pliegue de la barbilla,1
+97,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,2
+97,30-40,cuello,frontal,Pliegues del cuello,3
+98,30-40,superior,frontal,Líneas horizontales de la frente,2
+98,30-40,superior,frontal,Líneas glabelares,1
+98,30-40,media,lateral,Líneas periorbitarias,0
+98,30-40,media,frontal,Surco infraorbitario,1
+98,30-40,media,frontal,Hipercromía del anillo orbitario,2
+98,30-40,media,lateral,Líneas periauriculares,0
+98,30-40,inferior,lateral,Pliegues de las mejillas,1
+98,30-40,inferior,frontal,Pliegues nasolabiales,2
+98,30-40,inferior,frontal,Líneas periorales,0
+98,30-40,inferior,frontal,Líneas de la comisura de la boca,2
+98,30-40,inferior,frontal,Líneas de quelion,2
+98,30-40,inferior,frontal,Pliegue de la barbilla,1
+98,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,1
+98,30-40,cuello,frontal,Pliegues del cuello,1
+99,30-40,superior,frontal,Líneas horizontales de la frente,1
+99,30-40,superior,frontal,Líneas glabelares,1
+99,30-40,media,lateral,Líneas periorbitarias,1
+99,30-40,media,frontal,Surco infraorbitario,3
+99,30-40,media,frontal,Hipercromía del anillo orbitario,5
+99,30-40,media,lateral,Líneas periauriculares,0
+99,30-40,inferior,lateral,Pliegues de las mejillas,1
+99,30-40,inferior,frontal,Pliegues nasolabiales,1
+99,30-40,inferior,frontal,Líneas periorales,0
+99,30-40,inferior,frontal,Líneas de la comisura de la boca,1
+99,30-40,inferior,frontal,Líneas de quelion,0
+99,30-40,inferior,frontal,Pliegue de la barbilla,2
+99,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,1
+99,30-40,cuello,frontal,Pliegues del cuello,4
+100,30-40,superior,frontal,Líneas horizontales de la frente,0
+100,30-40,superior,frontal,Líneas glabelares,1
+100,30-40,media,lateral,Líneas periorbitarias,3
+100,30-40,media,frontal,Surco infraorbitario,2
+100,30-40,media,frontal,Hipercromía del anillo orbitario,2
+100,30-40,media,lateral,Líneas periauriculares,0
+100,30-40,inferior,lateral,Pliegues de las mejillas,0
+100,30-40,inferior,frontal,Pliegues nasolabiales,4
+100,30-40,inferior,frontal,Líneas periorales,1
+100,30-40,inferior,frontal,Líneas de la comisura de la boca,0
+100,30-40,inferior,frontal,Líneas de quelion,1
+100,30-40,inferior,frontal,Pliegue de la barbilla,1
+100,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,2
+100,30-40,cuello,frontal,Pliegues del cuello,5
+101,30-40,superior,frontal,Líneas horizontales de la frente,2
+101,30-40,superior,frontal,Líneas glabelares,1
+101,30-40,media,lateral,Líneas periorbitarias,1
+101,30-40,media,frontal,Surco infraorbitario,3
+101,30-40,media,frontal,Hipercromía del anillo orbitario,3
+101,30-40,media,lateral,Líneas periauriculares,0
+101,30-40,inferior,lateral,Pliegues de las mejillas,1
+101,30-40,inferior,frontal,Pliegues nasolabiales,1
+101,30-40,inferior,frontal,Líneas periorales,0
+101,30-40,inferior,frontal,Líneas de la comisura de la boca,0
+101,30-40,inferior,frontal,Líneas de quelion,1
+101,30-40,inferior,frontal,Pliegue de la barbilla,1
+101,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,2
+101,30-40,cuello,frontal,Pliegues del cuello,4
+102,30-40,superior,frontal,Líneas horizontales de la frente,3
+102,30-40,superior,frontal,Líneas glabelares,1
+102,30-40,media,lateral,Líneas periorbitarias,3
+102,30-40,media,frontal,Surco infraorbitario,1
+102,30-40,media,frontal,Hipercromía del anillo orbitario,1
+102,30-40,media,lateral,Líneas periauriculares,NA
+102,30-40,inferior,lateral,Pliegues de las mejillas,NA
+102,30-40,inferior,frontal,Pliegues nasolabiales,1
+102,30-40,inferior,frontal,Líneas periorales,1
+102,30-40,inferior,frontal,Líneas de la comisura de la boca,3
+102,30-40,inferior,frontal,Líneas de quelion,0
+102,30-40,inferior,frontal,Pliegue de la barbilla,0
+102,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,NA
+102,30-40,cuello,frontal,Pliegues del cuello,3
+103,30-40,superior,frontal,Líneas horizontales de la frente,0
+103,30-40,superior,frontal,Líneas glabelares,5
+103,30-40,media,lateral,Líneas periorbitarias,1
+103,30-40,media,frontal,Surco infraorbitario,2
+103,30-40,media,frontal,Hipercromía del anillo orbitario,4
+103,30-40,media,lateral,Líneas periauriculares,0
+103,30-40,inferior,lateral,Pliegues de las mejillas,1
+103,30-40,inferior,frontal,Pliegues nasolabiales,1
+103,30-40,inferior,frontal,Líneas periorales,0
+103,30-40,inferior,frontal,Líneas de la comisura de la boca,2
+103,30-40,inferior,frontal,Líneas de quelion,0
+103,30-40,inferior,frontal,Pliegue de la barbilla,0
+103,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,2
+103,30-40,cuello,frontal,Pliegues del cuello,3
+104,30-40,superior,frontal,Líneas horizontales de la frente,NA
+104,30-40,superior,frontal,Líneas glabelares,2
+104,30-40,media,lateral,Líneas periorbitarias,1
+104,30-40,media,frontal,Surco infraorbitario,0
+104,30-40,media,frontal,Hipercromía del anillo orbitario,3
+104,30-40,media,lateral,Líneas periauriculares,0
+104,30-40,inferior,lateral,Pliegues de las mejillas,0
+104,30-40,inferior,frontal,Pliegues nasolabiales,1
+104,30-40,inferior,frontal,Líneas periorales,1
+104,30-40,inferior,frontal,Líneas de la comisura de la boca,1
+104,30-40,inferior,frontal,Líneas de quelion,0
+104,30-40,inferior,frontal,Pliegue de la barbilla,0
+104,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,1
+104,30-40,cuello,frontal,Pliegues del cuello,4
+105,30-40,superior,frontal,Líneas horizontales de la frente,1
+105,30-40,superior,frontal,Líneas glabelares,1
+105,30-40,media,lateral,Líneas periorbitarias,0
+105,30-40,media,frontal,Surco infraorbitario,2
+105,30-40,media,frontal,Hipercromía del anillo orbitario,5
+105,30-40,media,lateral,Líneas periauriculares,0
+105,30-40,inferior,lateral,Pliegues de las mejillas,1
+105,30-40,inferior,frontal,Pliegues nasolabiales,3
+105,30-40,inferior,frontal,Líneas periorales,1
+105,30-40,inferior,frontal,Líneas de la comisura de la boca,4
+105,30-40,inferior,frontal,Líneas de quelion,1
+105,30-40,inferior,frontal,Pliegue de la barbilla,0
+105,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,2
+105,30-40,cuello,frontal,Pliegues del cuello,3
+106,30-40,superior,frontal,Líneas horizontales de la frente,0
+106,30-40,superior,frontal,Líneas glabelares,1
+106,30-40,media,lateral,Líneas periorbitarias,2
+106,30-40,media,frontal,Surco infraorbitario,0
+106,30-40,media,frontal,Hipercromía del anillo orbitario,1
+106,30-40,media,lateral,Líneas periauriculares,0
+106,30-40,inferior,lateral,Pliegues de las mejillas,1
+106,30-40,inferior,frontal,Pliegues nasolabiales,1
+106,30-40,inferior,frontal,Líneas periorales,0
+106,30-40,inferior,frontal,Líneas de la comisura de la boca,2
+106,30-40,inferior,frontal,Líneas de quelion,0
+106,30-40,inferior,frontal,Pliegue de la barbilla,0
+106,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,2
+106,30-40,cuello,frontal,Pliegues del cuello,5
+107,30-40,superior,frontal,Líneas horizontales de la frente,2
+107,30-40,superior,frontal,Líneas glabelares,3
+107,30-40,media,lateral,Líneas periorbitarias,4
+107,30-40,media,frontal,Surco infraorbitario,3
+107,30-40,media,frontal,Hipercromía del anillo orbitario,4
+107,30-40,media,lateral,Líneas periauriculares,4
+107,30-40,inferior,lateral,Pliegues de las mejillas,5
+107,30-40,inferior,frontal,Pliegues nasolabiales,5
+107,30-40,inferior,frontal,Líneas periorales,4
+107,30-40,inferior,frontal,Líneas de la comisura de la boca,5
+107,30-40,inferior,frontal,Líneas de quelion,5
+107,30-40,inferior,frontal,Pliegue de la barbilla,4
+107,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,5
+107,30-40,cuello,frontal,Pliegues del cuello,5
+108,30-40,superior,frontal,Líneas horizontales de la frente,1
+108,30-40,superior,frontal,Líneas glabelares,0
+108,30-40,media,lateral,Líneas periorbitarias,3
+108,30-40,media,frontal,Surco infraorbitario,0
+108,30-40,media,frontal,Hipercromía del anillo orbitario,4
+108,30-40,media,lateral,Líneas periauriculares,NA
+108,30-40,inferior,lateral,Pliegues de las mejillas,0
+108,30-40,inferior,frontal,Pliegues nasolabiales,3
+108,30-40,inferior,frontal,Líneas periorales,0
+108,30-40,inferior,frontal,Líneas de la comisura de la boca,1
+108,30-40,inferior,frontal,Líneas de quelion,0
+108,30-40,inferior,frontal,Pliegue de la barbilla,0
+108,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,1
+108,30-40,cuello,frontal,Pliegues del cuello,3
+109,30-40,superior,frontal,Líneas horizontales de la frente,1
+109,30-40,superior,frontal,Líneas glabelares,2
+109,30-40,media,lateral,Líneas periorbitarias,0
+109,30-40,media,frontal,Surco infraorbitario,2
+109,30-40,media,frontal,Hipercromía del anillo orbitario,2
+109,30-40,media,lateral,Líneas periauriculares,0
+109,30-40,inferior,lateral,Pliegues de las mejillas,0
+109,30-40,inferior,frontal,Pliegues nasolabiales,2
+109,30-40,inferior,frontal,Líneas periorales,0
+109,30-40,inferior,frontal,Líneas de la comisura de la boca,2
+109,30-40,inferior,frontal,Líneas de quelion,0
+109,30-40,inferior,frontal,Pliegue de la barbilla,3
+109,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,1
+109,30-40,cuello,frontal,Pliegues del cuello,2
+110,30-40,superior,frontal,Líneas horizontales de la frente,1
+110,30-40,superior,frontal,Líneas glabelares,2
+110,30-40,media,lateral,Líneas periorbitarias,1
+110,30-40,media,frontal,Surco infraorbitario,1
+110,30-40,media,frontal,Hipercromía del anillo orbitario,2
+110,30-40,media,lateral,Líneas periauriculares,0
+110,30-40,inferior,lateral,Pliegues de las mejillas,0
+110,30-40,inferior,frontal,Pliegues nasolabiales,3
+110,30-40,inferior,frontal,Líneas periorales,0
+110,30-40,inferior,frontal,Líneas de la comisura de la boca,3
+110,30-40,inferior,frontal,Líneas de quelion,2
+110,30-40,inferior,frontal,Pliegue de la barbilla,1
+110,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,1
+110,30-40,cuello,frontal,Pliegues del cuello,5
+111,30-40,superior,frontal,Líneas horizontales de la frente,1
+111,30-40,superior,frontal,Líneas glabelares,1
+111,30-40,media,lateral,Líneas periorbitarias,1
+111,30-40,media,frontal,Surco infraorbitario,1
+111,30-40,media,frontal,Hipercromía del anillo orbitario,3
+111,30-40,media,lateral,Líneas periauriculares,0
+111,30-40,inferior,lateral,Pliegues de las mejillas,0
+111,30-40,inferior,frontal,Pliegues nasolabiales,1
+111,30-40,inferior,frontal,Líneas periorales,0
+111,30-40,inferior,frontal,Líneas de la comisura de la boca,0
+111,30-40,inferior,frontal,Líneas de quelion,0
+111,30-40,inferior,frontal,Pliegue de la barbilla,4
+111,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,1
+111,30-40,cuello,frontal,Pliegues del cuello,5
+112,30-40,superior,frontal,Líneas horizontales de la frente,0
+112,30-40,superior,frontal,Líneas glabelares,3
+112,30-40,media,lateral,Líneas periorbitarias,3
+112,30-40,media,frontal,Surco infraorbitario,1
+112,30-40,media,frontal,Hipercromía del anillo orbitario,3
+112,30-40,media,lateral,Líneas periauriculares,0
+112,30-40,inferior,lateral,Pliegues de las mejillas,1
+112,30-40,inferior,frontal,Pliegues nasolabiales,1
+112,30-40,inferior,frontal,Líneas periorales,0
+112,30-40,inferior,frontal,Líneas de la comisura de la boca,0
+112,30-40,inferior,frontal,Líneas de quelion,1
+112,30-40,inferior,frontal,Pliegue de la barbilla,0
+112,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,1
+112,30-40,cuello,frontal,Pliegues del cuello,5
+113,30-40,superior,frontal,Líneas horizontales de la frente,1
+113,30-40,superior,frontal,Líneas glabelares,1
+113,30-40,media,lateral,Líneas periorbitarias,2
+113,30-40,media,frontal,Surco infraorbitario,2
+113,30-40,media,frontal,Hipercromía del anillo orbitario,4
+113,30-40,media,lateral,Líneas periauriculares,NA
+113,30-40,inferior,lateral,Pliegues de las mejillas,0
+113,30-40,inferior,frontal,Pliegues nasolabiales,1
+113,30-40,inferior,frontal,Líneas periorales,0
+113,30-40,inferior,frontal,Líneas de la comisura de la boca,2
+113,30-40,inferior,frontal,Líneas de quelion,0
+113,30-40,inferior,frontal,Pliegue de la barbilla,2
+113,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,2
+113,30-40,cuello,frontal,Pliegues del cuello,4
+114,30-40,superior,frontal,Líneas horizontales de la frente,1
+114,30-40,superior,frontal,Líneas glabelares,1
+114,30-40,media,lateral,Líneas periorbitarias,1
+114,30-40,media,frontal,Surco infraorbitario,2
+114,30-40,media,frontal,Hipercromía del anillo orbitario,2
+114,30-40,media,lateral,Líneas periauriculares,0
+114,30-40,inferior,lateral,Pliegues de las mejillas,0
+114,30-40,inferior,frontal,Pliegues nasolabiales,1
+114,30-40,inferior,frontal,Líneas periorales,0
+114,30-40,inferior,frontal,Líneas de la comisura de la boca,3
+114,30-40,inferior,frontal,Líneas de quelion,0
+114,30-40,inferior,frontal,Pliegue de la barbilla,1
+114,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,2
+114,30-40,cuello,frontal,Pliegues del cuello,5
+115,30-40,superior,frontal,Líneas horizontales de la frente,1
+115,30-40,superior,frontal,Líneas glabelares,2
+115,30-40,media,lateral,Líneas periorbitarias,5
+115,30-40,media,frontal,Surco infraorbitario,4
+115,30-40,media,frontal,Hipercromía del anillo orbitario,4
+115,30-40,media,lateral,Líneas periauriculares,0
+115,30-40,inferior,lateral,Pliegues de las mejillas,1
+115,30-40,inferior,frontal,Pliegues nasolabiales,4
+115,30-40,inferior,frontal,Líneas periorales,1
+115,30-40,inferior,frontal,Líneas de la comisura de la boca,3
+115,30-40,inferior,frontal,Líneas de quelion,1
+115,30-40,inferior,frontal,Pliegue de la barbilla,1
+115,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,3
+115,30-40,cuello,frontal,Pliegues del cuello,4
+116,30-40,superior,frontal,Líneas horizontales de la frente,1
+116,30-40,superior,frontal,Líneas glabelares,0
+116,30-40,media,lateral,Líneas periorbitarias,0
+116,30-40,media,frontal,Surco infraorbitario,2
+116,30-40,media,frontal,Hipercromía del anillo orbitario,5
+116,30-40,media,lateral,Líneas periauriculares,0
+116,30-40,inferior,lateral,Pliegues de las mejillas,0
+116,30-40,inferior,frontal,Pliegues nasolabiales,1
+116,30-40,inferior,frontal,Líneas periorales,0
+116,30-40,inferior,frontal,Líneas de la comisura de la boca,1
+116,30-40,inferior,frontal,Líneas de quelion,0
+116,30-40,inferior,frontal,Pliegue de la barbilla,2
+116,30-40,inferior,lateral,Flacidez de la piel de la mandíbula,2
+116,30-40,cuello,frontal,Pliegues del cuello,4
+117,40-50,superior,frontal,Líneas horizontales de la frente,0
+117,40-50,superior,frontal,Líneas glabelares,0
+117,40-50,media,lateral,Líneas periorbitarias,0
+117,40-50,media,frontal,Surco infraorbitario,1
+117,40-50,media,frontal,Hipercromía del anillo orbitario,2
+117,40-50,media,lateral,Líneas periauriculares,0
+117,40-50,inferior,lateral,Pliegues de las mejillas,1
+117,40-50,inferior,frontal,Pliegues nasolabiales,1
+117,40-50,inferior,frontal,Líneas periorales,1
+117,40-50,inferior,frontal,Líneas de la comisura de la boca,2
+117,40-50,inferior,frontal,Líneas de quelion,0
+117,40-50,inferior,frontal,Pliegue de la barbilla,0
+117,40-50,inferior,lateral,Flacidez de la piel de la mandíbula,4
+117,40-50,cuello,frontal,Pliegues del cuello,4
+118,40-50,superior,frontal,Líneas horizontales de la frente,2
+118,40-50,superior,frontal,Líneas glabelares,1
+118,40-50,media,lateral,Líneas periorbitarias,1
+118,40-50,media,frontal,Surco infraorbitario,1
+118,40-50,media,frontal,Hipercromía del anillo orbitario,2
+118,40-50,media,lateral,Líneas periauriculares,0
+118,40-50,inferior,lateral,Pliegues de las mejillas,2
+118,40-50,inferior,frontal,Pliegues nasolabiales,2
+118,40-50,inferior,frontal,Líneas periorales,1
+118,40-50,inferior,frontal,Líneas de la comisura de la boca,3
+118,40-50,inferior,frontal,Líneas de quelion,1
+118,40-50,inferior,frontal,Pliegue de la barbilla,0
+118,40-50,inferior,lateral,Flacidez de la piel de la mandíbula,3
+118,40-50,cuello,frontal,Pliegues del cuello,3
+119,40-50,superior,frontal,Líneas horizontales de la frente,2
+119,40-50,superior,frontal,Líneas glabelares,2
+119,40-50,media,lateral,Líneas periorbitarias,2
+119,40-50,media,frontal,Surco infraorbitario,3
+119,40-50,media,frontal,Hipercromía del anillo orbitario,5
+119,40-50,media,lateral,Líneas periauriculares,NA
+119,40-50,inferior,lateral,Pliegues de las mejillas,NA
+119,40-50,inferior,frontal,Pliegues nasolabiales,2
+119,40-50,inferior,frontal,Líneas periorales,1
+119,40-50,inferior,frontal,Líneas de la comisura de la boca,3
+119,40-50,inferior,frontal,Líneas de quelion,3
+119,40-50,inferior,frontal,Pliegue de la barbilla,0
+119,40-50,inferior,lateral,Flacidez de la piel de la mandíbula,NA
+119,40-50,cuello,frontal,Pliegues del cuello,5
+120,40-50,superior,frontal,Líneas horizontales de la frente,3
+120,40-50,superior,frontal,Líneas glabelares,3
+120,40-50,media,lateral,Líneas periorbitarias,1
+120,40-50,media,frontal,Surco infraorbitario,3
+120,40-50,media,frontal,Hipercromía del anillo orbitario,8
+120,40-50,media,lateral,Líneas periauriculares,1
+120,40-50,inferior,lateral,Pliegues de las mejillas,1
+120,40-50,inferior,frontal,Pliegues nasolabiales,5
+120,40-50,inferior,frontal,Líneas periorales,0
+120,40-50,inferior,frontal,Líneas de la comisura de la boca,4
+120,40-50,inferior,frontal,Líneas de quelion,3
+120,40-50,inferior,frontal,Pliegue de la barbilla,1
+120,40-50,inferior,lateral,Flacidez de la piel de la mandíbula,4
+120,40-50,cuello,frontal,Pliegues del cuello,5
+121,40-50,superior,frontal,Líneas horizontales de la frente,2
+121,40-50,superior,frontal,Líneas glabelares,0
+121,40-50,media,lateral,Líneas periorbitarias,0
+121,40-50,media,frontal,Surco infraorbitario,2
+121,40-50,media,frontal,Hipercromía del anillo orbitario,5
+121,40-50,media,lateral,Líneas periauriculares,0
+121,40-50,inferior,lateral,Pliegues de las mejillas,0
+121,40-50,inferior,frontal,Pliegues nasolabiales,1
+121,40-50,inferior,frontal,Líneas periorales,1
+121,40-50,inferior,frontal,Líneas de la comisura de la boca,0
+121,40-50,inferior,frontal,Líneas de quelion,1
+121,40-50,inferior,frontal,Pliegue de la barbilla,1
+121,40-50,inferior,lateral,Flacidez de la piel de la mandíbula,4
+121,40-50,cuello,frontal,Pliegues del cuello,3
+122,40-50,superior,frontal,Líneas horizontales de la frente,1
+122,40-50,superior,frontal,Líneas glabelares,1
+122,40-50,media,lateral,Líneas periorbitarias,1
+122,40-50,media,frontal,Surco infraorbitario,3
+122,40-50,media,frontal,Hipercromía del anillo orbitario,5
+122,40-50,media,lateral,Líneas periauriculares,0
+122,40-50,inferior,lateral,Pliegues de las mejillas,1
+122,40-50,inferior,frontal,Pliegues nasolabiales,4
+122,40-50,inferior,frontal,Líneas periorales,0
+122,40-50,inferior,frontal,Líneas de la comisura de la boca,2
+122,40-50,inferior,frontal,Líneas de quelion,2
+122,40-50,inferior,frontal,Pliegue de la barbilla,3
+122,40-50,inferior,lateral,Flacidez de la piel de la mandíbula,3
+122,40-50,cuello,frontal,Pliegues del cuello,5
+123,40-50,superior,frontal,Líneas horizontales de la frente,1
+123,40-50,superior,frontal,Líneas glabelares,1
+123,40-50,media,lateral,Líneas periorbitarias,1
+123,40-50,media,frontal,Surco infraorbitario,3
+123,40-50,media,frontal,Hipercromía del anillo orbitario,3
+123,40-50,media,lateral,Líneas periauriculares,0
+123,40-50,inferior,lateral,Pliegues de las mejillas,1
+123,40-50,inferior,frontal,Pliegues nasolabiales,1
+123,40-50,inferior,frontal,Líneas periorales,1
+123,40-50,inferior,frontal,Líneas de la comisura de la boca,2
+123,40-50,inferior,frontal,Líneas de quelion,1
+123,40-50,inferior,frontal,Pliegue de la barbilla,2
+123,40-50,inferior,lateral,Flacidez de la piel de la mandíbula,2
+123,40-50,cuello,frontal,Pliegues del cuello,4
+124,40-50,superior,frontal,Líneas horizontales de la frente,2
+124,40-50,superior,frontal,Líneas glabelares,1
+124,40-50,media,lateral,Líneas periorbitarias,1
+124,40-50,media,frontal,Surco infraorbitario,2
+124,40-50,media,frontal,Hipercromía del anillo orbitario,5
+124,40-50,media,lateral,Líneas periauriculares,0
+124,40-50,inferior,lateral,Pliegues de las mejillas,1
+124,40-50,inferior,frontal,Pliegues nasolabiales,3
+124,40-50,inferior,frontal,Líneas periorales,1
+124,40-50,inferior,frontal,Líneas de la comisura de la boca,3
+124,40-50,inferior,frontal,Líneas de quelion,1
+124,40-50,inferior,frontal,Pliegue de la barbilla,1
+124,40-50,inferior,lateral,Flacidez de la piel de la mandíbula,3
+124,40-50,cuello,frontal,Pliegues del cuello,5
+125,40-50,superior,frontal,Líneas horizontales de la frente,1
+125,40-50,superior,frontal,Líneas glabelares,1
+125,40-50,media,lateral,Líneas periorbitarias,1
+125,40-50,media,frontal,Surco infraorbitario,3
+125,40-50,media,frontal,Hipercromía del anillo orbitario,5
+125,40-50,media,lateral,Líneas periauriculares,0
+125,40-50,inferior,lateral,Pliegues de las mejillas,1
+125,40-50,inferior,frontal,Pliegues nasolabiales,1
+125,40-50,inferior,frontal,Líneas periorales,1
+125,40-50,inferior,frontal,Líneas de la comisura de la boca,2
+125,40-50,inferior,frontal,Líneas de quelion,1
+125,40-50,inferior,frontal,Pliegue de la barbilla,2
+125,40-50,inferior,lateral,Flacidez de la piel de la mandíbula,3
+125,40-50,cuello,frontal,Pliegues del cuello,4
+126,40-50,superior,frontal,Líneas horizontales de la frente,2
+126,40-50,superior,frontal,Líneas glabelares,2
+126,40-50,media,lateral,Líneas periorbitarias,2
+126,40-50,media,frontal,Surco infraorbitario,1
+126,40-50,media,frontal,Hipercromía del anillo orbitario,4
+126,40-50,media,lateral,Líneas periauriculares,0
+126,40-50,inferior,lateral,Pliegues de las mejillas,1
+126,40-50,inferior,frontal,Pliegues nasolabiales,2
+126,40-50,inferior,frontal,Líneas periorales,0
+126,40-50,inferior,frontal,Líneas de la comisura de la boca,3
+126,40-50,inferior,frontal,Líneas de quelion,1
+126,40-50,inferior,frontal,Pliegue de la barbilla,1
+126,40-50,inferior,lateral,Flacidez de la piel de la mandíbula,3
+126,40-50,cuello,frontal,Pliegues del cuello,5
+127,40-50,superior,frontal,Líneas horizontales de la frente,4
+127,40-50,superior,frontal,Líneas glabelares,2
+127,40-50,media,lateral,Líneas periorbitarias,5
+127,40-50,media,frontal,Surco infraorbitario,2
+127,40-50,media,frontal,Hipercromía del anillo orbitario,2
+127,40-50,media,lateral,Líneas periauriculares,1
+127,40-50,inferior,lateral,Pliegues de las mejillas,1
+127,40-50,inferior,frontal,Pliegues nasolabiales,3
+127,40-50,inferior,frontal,Líneas periorales,1
+127,40-50,inferior,frontal,Líneas de la comisura de la boca,3
+127,40-50,inferior,frontal,Líneas de quelion,1
+127,40-50,inferior,frontal,Pliegue de la barbilla,2
+127,40-50,inferior,lateral,Flacidez de la piel de la mandíbula,3
+127,40-50,cuello,frontal,Pliegues del cuello,5
+128,40-50,superior,frontal,Líneas horizontales de la frente,5
+128,40-50,superior,frontal,Líneas glabelares,2
+128,40-50,media,lateral,Líneas periorbitarias,5
+128,40-50,media,frontal,Surco infraorbitario,3
+128,40-50,media,frontal,Hipercromía del anillo orbitario,0
+128,40-50,media,lateral,Líneas periauriculares,1
+128,40-50,inferior,lateral,Pliegues de las mejillas,1
+128,40-50,inferior,frontal,Pliegues nasolabiales,2
+128,40-50,inferior,frontal,Líneas periorales,1
+128,40-50,inferior,frontal,Líneas de la comisura de la boca,3
+128,40-50,inferior,frontal,Líneas de quelion,0
+128,40-50,inferior,frontal,Pliegue de la barbilla,2
+128,40-50,inferior,lateral,Flacidez de la piel de la mandíbula,3
+128,40-50,cuello,frontal,Pliegues del cuello,5
+129,40-50,superior,frontal,Líneas horizontales de la frente,1
+129,40-50,superior,frontal,Líneas glabelares,3
+129,40-50,media,lateral,Líneas periorbitarias,3
+129,40-50,media,frontal,Surco infraorbitario,2
+129,40-50,media,frontal,Hipercromía del anillo orbitario,5
+129,40-50,media,lateral,Líneas periauriculares,2
+129,40-50,inferior,lateral,Pliegues de las mejillas,1
+129,40-50,inferior,frontal,Pliegues nasolabiales,2
+129,40-50,inferior,frontal,Líneas periorales,1
+129,40-50,inferior,frontal,Líneas de la comisura de la boca,3
+129,40-50,inferior,frontal,Líneas de quelion,1
+129,40-50,inferior,frontal,Pliegue de la barbilla,0
+129,40-50,inferior,lateral,Flacidez de la piel de la mandíbula,4
+129,40-50,cuello,frontal,Pliegues del cuello,5
+130,40-50,superior,frontal,Líneas horizontales de la frente,3
+130,40-50,superior,frontal,Líneas glabelares,2
+130,40-50,media,lateral,Líneas periorbitarias,4
+130,40-50,media,frontal,Surco infraorbitario,3
+130,40-50,media,frontal,Hipercromía del anillo orbitario,5
+130,40-50,media,lateral,Líneas periauriculares,4
+130,40-50,inferior,lateral,Pliegues de las mejillas,0
+130,40-50,inferior,frontal,Pliegues nasolabiales,3
+130,40-50,inferior,frontal,Líneas periorales,1
+130,40-50,inferior,frontal,Líneas de la comisura de la boca,2
+130,40-50,inferior,frontal,Líneas de quelion,1
+130,40-50,inferior,frontal,Pliegue de la barbilla,2
+130,40-50,inferior,lateral,Flacidez de la piel de la mandíbula,2
+130,40-50,cuello,frontal,Pliegues del cuello,4
+131,40-50,superior,frontal,Líneas horizontales de la frente,4
+131,40-50,superior,frontal,Líneas glabelares,4
+131,40-50,media,lateral,Líneas periorbitarias,4
+131,40-50,media,frontal,Surco infraorbitario,4
+131,40-50,media,frontal,Hipercromía del anillo orbitario,2
+131,40-50,media,lateral,Líneas periauriculares,1
+131,40-50,inferior,lateral,Pliegues de las mejillas,1
+131,40-50,inferior,frontal,Pliegues nasolabiales,4
+131,40-50,inferior,frontal,Líneas periorales,1
+131,40-50,inferior,frontal,Líneas de la comisura de la boca,3
+131,40-50,inferior,frontal,Líneas de quelion,0
+131,40-50,inferior,frontal,Pliegue de la barbilla,3
+131,40-50,inferior,lateral,Flacidez de la piel de la mandíbula,3
+131,40-50,cuello,frontal,Pliegues del cuello,3
+132,40-50,superior,frontal,Líneas horizontales de la frente,3
+132,40-50,superior,frontal,Líneas glabelares,4
+132,40-50,media,lateral,Líneas periorbitarias,4
+132,40-50,media,frontal,Surco infraorbitario,4
+132,40-50,media,frontal,Hipercromía del anillo orbitario,8
+132,40-50,media,lateral,Líneas periauriculares,2
+132,40-50,inferior,lateral,Pliegues de las mejillas,1
+132,40-50,inferior,frontal,Pliegues nasolabiales,5
+132,40-50,inferior,frontal,Líneas periorales,1
+132,40-50,inferior,frontal,Líneas de la comisura de la boca,2
+132,40-50,inferior,frontal,Líneas de quelion,4
+132,40-50,inferior,frontal,Pliegue de la barbilla,2
+132,40-50,inferior,lateral,Flacidez de la piel de la mandíbula,4
+132,40-50,cuello,frontal,Pliegues del cuello,4
+133,40-50,superior,frontal,Líneas horizontales de la frente,5
+133,40-50,superior,frontal,Líneas glabelares,4
+133,40-50,media,lateral,Líneas periorbitarias,3
+133,40-50,media,frontal,Surco infraorbitario,3
+133,40-50,media,frontal,Hipercromía del anillo orbitario,6
+133,40-50,media,lateral,Líneas periauriculares,NA
+133,40-50,inferior,lateral,Pliegues de las mejillas,0
+133,40-50,inferior,frontal,Pliegues nasolabiales,3
+133,40-50,inferior,frontal,Líneas periorales,1
+133,40-50,inferior,frontal,Líneas de la comisura de la boca,3
+133,40-50,inferior,frontal,Líneas de quelion,2
+133,40-50,inferior,frontal,Pliegue de la barbilla,2
+133,40-50,inferior,lateral,Flacidez de la piel de la mandíbula,4
+133,40-50,cuello,frontal,Pliegues del cuello,5
+134,40-50,superior,frontal,Líneas horizontales de la frente,5
+134,40-50,superior,frontal,Líneas glabelares,2
+134,40-50,media,lateral,Líneas periorbitarias,3
+134,40-50,media,frontal,Surco infraorbitario,3
+134,40-50,media,frontal,Hipercromía del anillo orbitario,3
+134,40-50,media,lateral,Líneas periauriculares,1
+134,40-50,inferior,lateral,Pliegues de las mejillas,0
+134,40-50,inferior,frontal,Pliegues nasolabiales,3
+134,40-50,inferior,frontal,Líneas periorales,1
+134,40-50,inferior,frontal,Líneas de la comisura de la boca,5
+134,40-50,inferior,frontal,Líneas de quelion,2
+134,40-50,inferior,frontal,Pliegue de la barbilla,5
+134,40-50,inferior,lateral,Flacidez de la piel de la mandíbula,3
+134,40-50,cuello,frontal,Pliegues del cuello,5
+135,40-50,superior,frontal,Líneas horizontales de la frente,4
+135,40-50,superior,frontal,Líneas glabelares,2
+135,40-50,media,lateral,Líneas periorbitarias,5
+135,40-50,media,frontal,Surco infraorbitario,4
+135,40-50,media,frontal,Hipercromía del anillo orbitario,4
+135,40-50,media,lateral,Líneas periauriculares,2
+135,40-50,inferior,lateral,Pliegues de las mejillas,0
+135,40-50,inferior,frontal,Pliegues nasolabiales,4
+135,40-50,inferior,frontal,Líneas periorales,0
+135,40-50,inferior,frontal,Líneas de la comisura de la boca,2
+135,40-50,inferior,frontal,Líneas de quelion,3
+135,40-50,inferior,frontal,Pliegue de la barbilla,3
+135,40-50,inferior,lateral,Flacidez de la piel de la mandíbula,4
+135,40-50,cuello,frontal,Pliegues del cuello,4
+136,40-50,superior,frontal,Líneas horizontales de la frente,4
+136,40-50,superior,frontal,Líneas glabelares,3
+136,40-50,media,lateral,Líneas periorbitarias,3
+136,40-50,media,frontal,Surco infraorbitario,3
+136,40-50,media,frontal,Hipercromía del anillo orbitario,2
+136,40-50,media,lateral,Líneas periauriculares,4
+136,40-50,inferior,lateral,Pliegues de las mejillas,1
+136,40-50,inferior,frontal,Pliegues nasolabiales,5
+136,40-50,inferior,frontal,Líneas periorales,3
+136,40-50,inferior,frontal,Líneas de la comisura de la boca,5
+136,40-50,inferior,frontal,Líneas de quelion,4
+136,40-50,inferior,frontal,Pliegue de la barbilla,3
+136,40-50,inferior,lateral,Flacidez de la piel de la mandíbula,4
+136,40-50,cuello,frontal,Pliegues del cuello,5
+137,40-50,superior,frontal,Líneas horizontales de la frente,3
+137,40-50,superior,frontal,Líneas glabelares,3
+137,40-50,media,lateral,Líneas periorbitarias,2
+137,40-50,media,frontal,Surco infraorbitario,2
+137,40-50,media,frontal,Hipercromía del anillo orbitario,2
+137,40-50,media,lateral,Líneas periauriculares,2
+137,40-50,inferior,lateral,Pliegues de las mejillas,2
+137,40-50,inferior,frontal,Pliegues nasolabiales,3
+137,40-50,inferior,frontal,Líneas periorales,0
+137,40-50,inferior,frontal,Líneas de la comisura de la boca,3
+137,40-50,inferior,frontal,Líneas de quelion,2
+137,40-50,inferior,frontal,Pliegue de la barbilla,1
+137,40-50,inferior,lateral,Flacidez de la piel de la mandíbula,4
+137,40-50,cuello,frontal,Pliegues del cuello,4
+138,40-50,superior,frontal,Líneas horizontales de la frente,2
+138,40-50,superior,frontal,Líneas glabelares,1
+138,40-50,media,lateral,Líneas periorbitarias,4
+138,40-50,media,frontal,Surco infraorbitario,4
+138,40-50,media,frontal,Hipercromía del anillo orbitario,5
+138,40-50,media,lateral,Líneas periauriculares,1
+138,40-50,inferior,lateral,Pliegues de las mejillas,1
+138,40-50,inferior,frontal,Pliegues nasolabiales,3
+138,40-50,inferior,frontal,Líneas periorales,0
+138,40-50,inferior,frontal,Líneas de la comisura de la boca,1
+138,40-50,inferior,frontal,Líneas de quelion,1
+138,40-50,inferior,frontal,Pliegue de la barbilla,1
+138,40-50,inferior,lateral,Flacidez de la piel de la mandíbula,5
+138,40-50,cuello,frontal,Pliegues del cuello,5
+139,40-50,superior,frontal,Líneas horizontales de la frente,1
+139,40-50,superior,frontal,Líneas glabelares,3
+139,40-50,media,lateral,Líneas periorbitarias,2
+139,40-50,media,frontal,Surco infraorbitario,1
+139,40-50,media,frontal,Hipercromía del anillo orbitario,0
+139,40-50,media,lateral,Líneas periauriculares,1
+139,40-50,inferior,lateral,Pliegues de las mejillas,2
+139,40-50,inferior,frontal,Pliegues nasolabiales,3
+139,40-50,inferior,frontal,Líneas periorales,1
+139,40-50,inferior,frontal,Líneas de la comisura de la boca,4
+139,40-50,inferior,frontal,Líneas de quelion,2
+139,40-50,inferior,frontal,Pliegue de la barbilla,1
+139,40-50,inferior,lateral,Flacidez de la piel de la mandíbula,3
+139,40-50,cuello,frontal,Pliegues del cuello,5
+140,40-50,superior,frontal,Líneas horizontales de la frente,2
+140,40-50,superior,frontal,Líneas glabelares,2
+140,40-50,media,lateral,Líneas periorbitarias,1
+140,40-50,media,frontal,Surco infraorbitario,0
+140,40-50,media,frontal,Hipercromía del anillo orbitario,1
+140,40-50,media,lateral,Líneas periauriculares,1
+140,40-50,inferior,lateral,Pliegues de las mejillas,1
+140,40-50,inferior,frontal,Pliegues nasolabiales,1
+140,40-50,inferior,frontal,Líneas periorales,0
+140,40-50,inferior,frontal,Líneas de la comisura de la boca,1
+140,40-50,inferior,frontal,Líneas de quelion,1
+140,40-50,inferior,frontal,Pliegue de la barbilla,0
+140,40-50,inferior,lateral,Flacidez de la piel de la mandíbula,3
+140,40-50,cuello,frontal,Pliegues del cuello,4
+141,40-50,superior,frontal,Líneas horizontales de la frente,5
+141,40-50,superior,frontal,Líneas glabelares,1
+141,40-50,media,lateral,Líneas periorbitarias,1
+141,40-50,media,frontal,Surco infraorbitario,2
+141,40-50,media,frontal,Hipercromía del anillo orbitario,3
+141,40-50,media,lateral,Líneas periauriculares,1
+141,40-50,inferior,lateral,Pliegues de las mejillas,1
+141,40-50,inferior,frontal,Pliegues nasolabiales,2
+141,40-50,inferior,frontal,Líneas periorales,0
+141,40-50,inferior,frontal,Líneas de la comisura de la boca,3
+141,40-50,inferior,frontal,Líneas de quelion,0
+141,40-50,inferior,frontal,Pliegue de la barbilla,3
+141,40-50,inferior,lateral,Flacidez de la piel de la mandíbula,5
+141,40-50,cuello,frontal,Pliegues del cuello,2
+142,40-50,superior,frontal,Líneas horizontales de la frente,NA
+142,40-50,superior,frontal,Líneas glabelares,2
+142,40-50,media,lateral,Líneas periorbitarias,1
+142,40-50,media,frontal,Surco infraorbitario,2
+142,40-50,media,frontal,Hipercromía del anillo orbitario,3
+142,40-50,media,lateral,Líneas periauriculares,0
+142,40-50,inferior,lateral,Pliegues de las mejillas,1
+142,40-50,inferior,frontal,Pliegues nasolabiales,3
+142,40-50,inferior,frontal,Líneas periorales,0
+142,40-50,inferior,frontal,Líneas de la comisura de la boca,3
+142,40-50,inferior,frontal,Líneas de quelion,2
+142,40-50,inferior,frontal,Pliegue de la barbilla,3
+142,40-50,inferior,lateral,Flacidez de la piel de la mandíbula,2
+142,40-50,cuello,frontal,Pliegues del cuello,5
+143,40-50,superior,frontal,Líneas horizontales de la frente,3
+143,40-50,superior,frontal,Líneas glabelares,4
+143,40-50,media,lateral,Líneas periorbitarias,3
+143,40-50,media,frontal,Surco infraorbitario,3
+143,40-50,media,frontal,Hipercromía del anillo orbitario,2
+143,40-50,media,lateral,Líneas periauriculares,3
+143,40-50,inferior,lateral,Pliegues de las mejillas,0
+143,40-50,inferior,frontal,Pliegues nasolabiales,5
+143,40-50,inferior,frontal,Líneas periorales,0
+143,40-50,inferior,frontal,Líneas de la comisura de la boca,5
+143,40-50,inferior,frontal,Líneas de quelion,2
+143,40-50,inferior,frontal,Pliegue de la barbilla,0
+143,40-50,inferior,lateral,Flacidez de la piel de la mandíbula,3
+143,40-50,cuello,frontal,Pliegues del cuello,5
+144,40-50,superior,frontal,Líneas horizontales de la frente,3
+144,40-50,superior,frontal,Líneas glabelares,1
+144,40-50,media,lateral,Líneas periorbitarias,3
+144,40-50,media,frontal,Surco infraorbitario,2
+144,40-50,media,frontal,Hipercromía del anillo orbitario,2
+144,40-50,media,lateral,Líneas periauriculares,0
+144,40-50,inferior,lateral,Pliegues de las mejillas,0
+144,40-50,inferior,frontal,Pliegues nasolabiales,4
+144,40-50,inferior,frontal,Líneas periorales,1
+144,40-50,inferior,frontal,Líneas de la comisura de la boca,3
+144,40-50,inferior,frontal,Líneas de quelion,2
+144,40-50,inferior,frontal,Pliegue de la barbilla,2
+144,40-50,inferior,lateral,Flacidez de la piel de la mandíbula,3
+144,40-50,cuello,frontal,Pliegues del cuello,1
+145,40-50,superior,frontal,Líneas horizontales de la frente,3
+145,40-50,superior,frontal,Líneas glabelares,1
+145,40-50,media,lateral,Líneas periorbitarias,4
+145,40-50,media,frontal,Surco infraorbitario,4
+145,40-50,media,frontal,Hipercromía del anillo orbitario,5
+145,40-50,media,lateral,Líneas periauriculares,0
+145,40-50,inferior,lateral,Pliegues de las mejillas,1
+145,40-50,inferior,frontal,Pliegues nasolabiales,1
+145,40-50,inferior,frontal,Líneas periorales,1
+145,40-50,inferior,frontal,Líneas de la comisura de la boca,3
+145,40-50,inferior,frontal,Líneas de quelion,1
+145,40-50,inferior,frontal,Pliegue de la barbilla,2
+145,40-50,inferior,lateral,Flacidez de la piel de la mandíbula,5
+145,40-50,cuello,frontal,Pliegues del cuello,5
+146,40-50,superior,frontal,Líneas horizontales de la frente,4
+146,40-50,superior,frontal,Líneas glabelares,3
+146,40-50,media,lateral,Líneas periorbitarias,2
+146,40-50,media,frontal,Surco infraorbitario,3
+146,40-50,media,frontal,Hipercromía del anillo orbitario,2
+146,40-50,media,lateral,Líneas periauriculares,1
+146,40-50,inferior,lateral,Pliegues de las mejillas,1
+146,40-50,inferior,frontal,Pliegues nasolabiales,4
+146,40-50,inferior,frontal,Líneas periorales,1
+146,40-50,inferior,frontal,Líneas de la comisura de la boca,4
+146,40-50,inferior,frontal,Líneas de quelion,1
+146,40-50,inferior,frontal,Pliegue de la barbilla,1
+146,40-50,inferior,lateral,Flacidez de la piel de la mandíbula,3
+146,40-50,cuello,frontal,Pliegues del cuello,5
+147,40-50,superior,frontal,Líneas horizontales de la frente,3
+147,40-50,superior,frontal,Líneas glabelares,3
+147,40-50,media,lateral,Líneas periorbitarias,5
+147,40-50,media,frontal,Surco infraorbitario,4
+147,40-50,media,frontal,Hipercromía del anillo orbitario,5
+147,40-50,media,lateral,Líneas periauriculares,0
+147,40-50,inferior,lateral,Pliegues de las mejillas,1
+147,40-50,inferior,frontal,Pliegues nasolabiales,5
+147,40-50,inferior,frontal,Líneas periorales,1
+147,40-50,inferior,frontal,Líneas de la comisura de la boca,4
+147,40-50,inferior,frontal,Líneas de quelion,3
+147,40-50,inferior,frontal,Pliegue de la barbilla,1
+147,40-50,inferior,lateral,Flacidez de la piel de la mandíbula,3
+147,40-50,cuello,frontal,Pliegues del cuello,3
+148,40-50,superior,frontal,Líneas horizontales de la frente,3
+148,40-50,superior,frontal,Líneas glabelares,2
+148,40-50,media,lateral,Líneas periorbitarias,3
+148,40-50,media,frontal,Surco infraorbitario,3
+148,40-50,media,frontal,Hipercromía del anillo orbitario,3
+148,40-50,media,lateral,Líneas periauriculares,1
+148,40-50,inferior,lateral,Pliegues de las mejillas,2
+148,40-50,inferior,frontal,Pliegues nasolabiales,2
+148,40-50,inferior,frontal,Líneas periorales,1
+148,40-50,inferior,frontal,Líneas de la comisura de la boca,3
+148,40-50,inferior,frontal,Líneas de quelion,1
+148,40-50,inferior,frontal,Pliegue de la barbilla,4
+148,40-50,inferior,lateral,Flacidez de la piel de la mandíbula,4
+148,40-50,cuello,frontal,Pliegues del cuello,5
+149,40-50,superior,frontal,Líneas horizontales de la frente,5
+149,40-50,superior,frontal,Líneas glabelares,2
+149,40-50,media,lateral,Líneas periorbitarias,2
+149,40-50,media,frontal,Surco infraorbitario,3
+149,40-50,media,frontal,Hipercromía del anillo orbitario,4
+149,40-50,media,lateral,Líneas periauriculares,0
+149,40-50,inferior,lateral,Pliegues de las mejillas,1
+149,40-50,inferior,frontal,Pliegues nasolabiales,3
+149,40-50,inferior,frontal,Líneas periorales,0
+149,40-50,inferior,frontal,Líneas de la comisura de la boca,3
+149,40-50,inferior,frontal,Líneas de quelion,1
+149,40-50,inferior,frontal,Pliegue de la barbilla,1
+149,40-50,inferior,lateral,Flacidez de la piel de la mandíbula,3
+149,40-50,cuello,frontal,Pliegues del cuello,5
+150,40-50,superior,frontal,Líneas horizontales de la frente,4
+150,40-50,superior,frontal,Líneas glabelares,2
+150,40-50,media,lateral,Líneas periorbitarias,5
+150,40-50,media,frontal,Surco infraorbitario,3
+150,40-50,media,frontal,Hipercromía del anillo orbitario,3
+150,40-50,media,lateral,Líneas periauriculares,NA
+150,40-50,inferior,lateral,Pliegues de las mejillas,1
+150,40-50,inferior,frontal,Pliegues nasolabiales,2
+150,40-50,inferior,frontal,Líneas periorales,0
+150,40-50,inferior,frontal,Líneas de la comisura de la boca,4
+150,40-50,inferior,frontal,Líneas de quelion,3
+150,40-50,inferior,frontal,Pliegue de la barbilla,5
+150,40-50,inferior,lateral,Flacidez de la piel de la mandíbula,2
+150,40-50,cuello,frontal,Pliegues del cuello,5
+151,40-50,superior,frontal,Líneas horizontales de la frente,5
+151,40-50,superior,frontal,Líneas glabelares,5
+151,40-50,media,lateral,Líneas periorbitarias,5
+151,40-50,media,frontal,Surco infraorbitario,3
+151,40-50,media,frontal,Hipercromía del anillo orbitario,2
+151,40-50,media,lateral,Líneas periauriculares,NA
+151,40-50,inferior,lateral,Pliegues de las mejillas,1
+151,40-50,inferior,frontal,Pliegues nasolabiales,4
+151,40-50,inferior,frontal,Líneas periorales,1
+151,40-50,inferior,frontal,Líneas de la comisura de la boca,2
+151,40-50,inferior,frontal,Líneas de quelion,1
+151,40-50,inferior,frontal,Pliegue de la barbilla,0
+151,40-50,inferior,lateral,Flacidez de la piel de la mandíbula,2
+151,40-50,cuello,frontal,Pliegues del cuello,4
+152,50-60,superior,frontal,Líneas horizontales de la frente,2
+152,50-60,superior,frontal,Líneas glabelares,4
+152,50-60,media,lateral,Líneas periorbitarias,3
+152,50-60,media,frontal,Surco infraorbitario,3
+152,50-60,media,frontal,Hipercromía del anillo orbitario,5
+152,50-60,media,lateral,Líneas periauriculares,1
+152,50-60,inferior,lateral,Pliegues de las mejillas,2
+152,50-60,inferior,frontal,Pliegues nasolabiales,4
+152,50-60,inferior,frontal,Líneas periorales,4
+152,50-60,inferior,frontal,Líneas de la comisura de la boca,4
+152,50-60,inferior,frontal,Líneas de quelion,1
+152,50-60,inferior,frontal,Pliegue de la barbilla,1
+152,50-60,inferior,lateral,Flacidez de la piel de la mandíbula,4
+152,50-60,cuello,frontal,Pliegues del cuello,2
+153,50-60,superior,frontal,Líneas horizontales de la frente,1
+153,50-60,superior,frontal,Líneas glabelares,5
+153,50-60,media,lateral,Líneas periorbitarias,3
+153,50-60,media,frontal,Surco infraorbitario,3
+153,50-60,media,frontal,Hipercromía del anillo orbitario,6
+153,50-60,media,lateral,Líneas periauriculares,2
+153,50-60,inferior,lateral,Pliegues de las mejillas,1
+153,50-60,inferior,frontal,Pliegues nasolabiales,1
+153,50-60,inferior,frontal,Líneas periorales,1
+153,50-60,inferior,frontal,Líneas de la comisura de la boca,4
+153,50-60,inferior,frontal,Líneas de quelion,3
+153,50-60,inferior,frontal,Pliegue de la barbilla,2
+153,50-60,inferior,lateral,Flacidez de la piel de la mandíbula,5
+153,50-60,cuello,frontal,Pliegues del cuello,3
+154,50-60,superior,frontal,Líneas horizontales de la frente,5
+154,50-60,superior,frontal,Líneas glabelares,3
+154,50-60,media,lateral,Líneas periorbitarias,5
+154,50-60,media,frontal,Surco infraorbitario,4
+154,50-60,media,frontal,Hipercromía del anillo orbitario,0
+154,50-60,media,lateral,Líneas periauriculares,5
+154,50-60,inferior,lateral,Pliegues de las mejillas,0
+154,50-60,inferior,frontal,Pliegues nasolabiales,4
+154,50-60,inferior,frontal,Líneas periorales,3
+154,50-60,inferior,frontal,Líneas de la comisura de la boca,5
+154,50-60,inferior,frontal,Líneas de quelion,3
+154,50-60,inferior,frontal,Pliegue de la barbilla,1
+154,50-60,inferior,lateral,Flacidez de la piel de la mandíbula,4
+154,50-60,cuello,frontal,Pliegues del cuello,5
+155,50-60,superior,frontal,Líneas horizontales de la frente,4
+155,50-60,superior,frontal,Líneas glabelares,3
+155,50-60,media,lateral,Líneas periorbitarias,5
+155,50-60,media,frontal,Surco infraorbitario,4
+155,50-60,media,frontal,Hipercromía del anillo orbitario,5
+155,50-60,media,lateral,Líneas periauriculares,2
+155,50-60,inferior,lateral,Pliegues de las mejillas,1
+155,50-60,inferior,frontal,Pliegues nasolabiales,5
+155,50-60,inferior,frontal,Líneas periorales,3
+155,50-60,inferior,frontal,Líneas de la comisura de la boca,5
+155,50-60,inferior,frontal,Líneas de quelion,5
+155,50-60,inferior,frontal,Pliegue de la barbilla,5
+155,50-60,inferior,lateral,Flacidez de la piel de la mandíbula,5
+155,50-60,cuello,frontal,Pliegues del cuello,5
+156,50-60,superior,frontal,Líneas horizontales de la frente,5
+156,50-60,superior,frontal,Líneas glabelares,5
+156,50-60,media,lateral,Líneas periorbitarias,3
+156,50-60,media,frontal,Surco infraorbitario,4
+156,50-60,media,frontal,Hipercromía del anillo orbitario,4
+156,50-60,media,lateral,Líneas periauriculares,5
+156,50-60,inferior,lateral,Pliegues de las mejillas,4
+156,50-60,inferior,frontal,Pliegues nasolabiales,5
+156,50-60,inferior,frontal,Líneas periorales,4
+156,50-60,inferior,frontal,Líneas de la comisura de la boca,5
+156,50-60,inferior,frontal,Líneas de quelion,5
+156,50-60,inferior,frontal,Pliegue de la barbilla,5
+156,50-60,inferior,lateral,Flacidez de la piel de la mandíbula,4
+156,50-60,cuello,frontal,Pliegues del cuello,4
+157,50-60,superior,frontal,Líneas horizontales de la frente,5
+157,50-60,superior,frontal,Líneas glabelares,5
+157,50-60,media,lateral,Líneas periorbitarias,5
+157,50-60,media,frontal,Surco infraorbitario,3
+157,50-60,media,frontal,Hipercromía del anillo orbitario,3
+157,50-60,media,lateral,Líneas periauriculares,5
+157,50-60,inferior,lateral,Pliegues de las mejillas,1
+157,50-60,inferior,frontal,Pliegues nasolabiales,4
+157,50-60,inferior,frontal,Líneas periorales,1
+157,50-60,inferior,frontal,Líneas de la comisura de la boca,5
+157,50-60,inferior,frontal,Líneas de quelion,4
+157,50-60,inferior,frontal,Pliegue de la barbilla,1
+157,50-60,inferior,lateral,Flacidez de la piel de la mandíbula,3
+157,50-60,cuello,frontal,Pliegues del cuello,5
+158,50-60,superior,frontal,Líneas horizontales de la frente,4
+158,50-60,superior,frontal,Líneas glabelares,3
+158,50-60,media,lateral,Líneas periorbitarias,3
+158,50-60,media,frontal,Surco infraorbitario,3
+158,50-60,media,frontal,Hipercromía del anillo orbitario,3
+158,50-60,media,lateral,Líneas periauriculares,5
+158,50-60,inferior,lateral,Pliegues de las mejillas,1
+158,50-60,inferior,frontal,Pliegues nasolabiales,5
+158,50-60,inferior,frontal,Líneas periorales,3
+158,50-60,inferior,frontal,Líneas de la comisura de la boca,5
+158,50-60,inferior,frontal,Líneas de quelion,5
+158,50-60,inferior,frontal,Pliegue de la barbilla,4
+158,50-60,inferior,lateral,Flacidez de la piel de la mandíbula,5
+158,50-60,cuello,frontal,Pliegues del cuello,5
+159,50-60,superior,frontal,Líneas horizontales de la frente,5
+159,50-60,superior,frontal,Líneas glabelares,3
+159,50-60,media,lateral,Líneas periorbitarias,3
+159,50-60,media,frontal,Surco infraorbitario,4
+159,50-60,media,frontal,Hipercromía del anillo orbitario,6
+159,50-60,media,lateral,Líneas periauriculares,1
+159,50-60,inferior,lateral,Pliegues de las mejillas,1
+159,50-60,inferior,frontal,Pliegues nasolabiales,4
+159,50-60,inferior,frontal,Líneas periorales,1
+159,50-60,inferior,frontal,Líneas de la comisura de la boca,4
+159,50-60,inferior,frontal,Líneas de quelion,2
+159,50-60,inferior,frontal,Pliegue de la barbilla,0
+159,50-60,inferior,lateral,Flacidez de la piel de la mandíbula,5
+159,50-60,cuello,frontal,Pliegues del cuello,5
+160,60-70,superior,frontal,Líneas horizontales de la frente,5
+160,60-70,superior,frontal,Líneas glabelares,5
+160,60-70,media,lateral,Líneas periorbitarias,5
+160,60-70,media,frontal,Surco infraorbitario,4
+160,60-70,media,frontal,Hipercromía del anillo orbitario,4
+160,60-70,media,lateral,Líneas periauriculares,4
+160,60-70,inferior,lateral,Pliegues de las mejillas,5
+160,60-70,inferior,frontal,Pliegues nasolabiales,5
+160,60-70,inferior,frontal,Líneas periorales,5
+160,60-70,inferior,frontal,Líneas de la comisura de la boca,5
+160,60-70,inferior,frontal,Líneas de quelion,5
+160,60-70,inferior,frontal,Pliegue de la barbilla,1
+160,60-70,inferior,lateral,Flacidez de la piel de la mandíbula,5
+160,60-70,cuello,frontal,Pliegues del cuello,5
+161,70,superior,frontal,Líneas horizontales de la frente,5
+161,70,superior,frontal,Líneas glabelares,5
+161,70,media,lateral,Líneas periorbitarias,5
+161,70,media,frontal,Surco infraorbitario,4
+161,70,media,frontal,Hipercromía del anillo orbitario,4
+161,70,media,lateral,Líneas periauriculares,5
+161,70,inferior,lateral,Pliegues de las mejillas,3
+161,70,inferior,frontal,Pliegues nasolabiales,4
+161,70,inferior,frontal,Líneas periorales,5
+161,70,inferior,frontal,Líneas de la comisura de la boca,5
+161,70,inferior,frontal,Líneas de quelion,5
+161,70,inferior,frontal,Pliegue de la barbilla,3
+161,70,inferior,lateral,Flacidez de la piel de la mandíbula,5
+161,70,cuello,frontal,Pliegues del cuello,5
